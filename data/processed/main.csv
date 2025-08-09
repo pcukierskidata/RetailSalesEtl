@@ -1,0 +1,1001 @@
+,SaleID,CustomerID,ProductID,Quantity,SaleDate,FirstName,LastName,RegistrationDate,City,ProductName,Category,UnitPrice
+0,1,44,7,3,2024-07-03,456D5,7D83D21,2023-02-24,Gdańsk ,Czekolada mleczna,Spożywcze,6.99
+1,2,31,2,1,2024-08-23,F4F13,AC07F62,2023-09-12,Nieznane,Smartphone Max,Elektronika,3199.99
+2,3,27,7,4,2024-07-27,A7FBC,F6F286C,2023-03-28,Kraków,Czekolada mleczna,Spożywcze,6.99
+3,4,35,6,1,2025-06-17,83C92,C3081A0,2023-06-23,Gdańsk ,Zegarek sportowy,Elektronika,899.99
+4,5,15,5,4,2024-09-10,02741,E178374,2024-10-30,Nieznane,Kurtka zimowa,Odzież,699.99
+5,6,34,6,3,2025-01-29,7BF45,19BBE96,2023-05-14,Warszawa,Zegarek sportowy,Elektronika,899.99
+6,7,6,5,2,2025-06-01,6D1B7,3967D2B,2023-09-27,Nieznane,Kurtka zimowa,Odzież,699.99
+7,8,12,4,4,2024-12-14,6A756,F691256,2023-09-18,Wrocław,Buty biegowe X,Odzież,299.99
+8,9,27,4,3,2025-06-27,A7FBC,F6F286C,2023-03-28,Kraków,Buty biegowe X,Odzież,299.99
+9,10,30,3,3,2024-11-05,93D01,4DCE31C,2024-11-06,Krakow,Kawa ziarnista 1kg,Spożywcze,59.99
+10,11,8,3,1,2025-03-07,295AB,E30A1E9,2024-02-03,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+11,12,11,6,1,2025-05-11,9902E,854872D,2024-01-27,Warszawa,Zegarek sportowy,Elektronika,899.99
+12,13,31,3,2,2025-04-12,F4F13,AC07F62,2023-09-12,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+13,14,37,5,2,2024-12-26,AAB63,EC78CD3,2023-01-27,Nieznane,Kurtka zimowa,Odzież,699.99
+14,15,37,4,1,2024-08-13,AAB63,EC78CD3,2023-01-27,Nieznane,Buty biegowe X,Odzież,299.99
+15,16,1,6,2,2024-09-26,4A761,069E7ED,2022-12-15,Nieznane,Zegarek sportowy,Elektronika,899.99
+16,17,19,4,4,2024-12-01,1FBDD,C51B052,2022-11-22,Nieznane,Buty biegowe X,Odzież,299.99
+17,18,33,6,2,2025-05-16,A664C,4964EDE,2024-12-29,Warszawa,Zegarek sportowy,Elektronika,899.99
+18,19,16,3,4,2024-08-04,DD797,E1C5C15,2023-09-28,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+19,20,19,1,2,2024-12-04,1FBDD,C51B052,2022-11-22,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+20,21,45,1,4,2025-05-15,BBBA0,656E183,2023-02-22,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+21,22,36,4,5,2025-04-08,67EDF,A5F741A,2023-04-21,Gdańsk ,Buty biegowe X,Odzież,299.99
+22,23,14,7,5,2024-09-26,315CB,51915AE,2024-05-05,Lodz,Czekolada mleczna,Spożywcze,6.99
+23,24,1,1,3,2024-08-04,4A761,069E7ED,2022-12-15,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+24,25,29,3,1,2025-03-21,61394,7C0C33E,2023-06-19,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+25,26,38,7,3,2025-03-05,A5DA8,9D8EAD8,2023-07-20,POZNAŃ,Czekolada mleczna,Spożywcze,6.99
+26,27,9,7,4,2024-12-14,98989,FFF4200,2022-10-18,Lodz,Czekolada mleczna,Spożywcze,6.99
+27,28,17,4,4,2025-02-12,42C9E,360A3A2,2023-09-24,Nieznane,Buty biegowe X,Odzież,299.99
+28,29,25,6,1,2024-11-21,134F7,F7FD9E1,2023-08-19,Warszawa,Zegarek sportowy,Elektronika,899.99
+29,30,37,7,1,2025-03-06,AAB63,EC78CD3,2023-01-27,Nieznane,Czekolada mleczna,Spożywcze,6.99
+30,31,21,1,4,2024-10-11,BBDAD,AF3472B,2024-05-28,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+31,32,26,5,5,2024-11-14,EB778,6F93BB5,2024-04-01,Nieznane,Kurtka zimowa,Odzież,699.99
+32,33,11,5,4,2025-02-01,9902E,854872D,2024-01-27,Warszawa,Kurtka zimowa,Odzież,699.99
+33,34,10,5,1,2025-04-05,5349F,13CE7DE,2023-04-27,Nieznane,Kurtka zimowa,Odzież,699.99
+34,35,16,2,4,2024-08-25,DD797,E1C5C15,2023-09-28,Nieznane,Smartphone Max,Elektronika,3199.99
+35,36,18,5,5,2025-02-08,CFFB2,C26C8A4,2024-09-29,Nieznane,Kurtka zimowa,Odzież,699.99
+36,37,40,7,1,2025-04-09,384CB,EB6BD6A,2023-05-01,Nieznane,Czekolada mleczna,Spożywcze,6.99
+37,38,46,6,4,2025-04-02,Anna,Nowak,2026-01-01,Kraków,Zegarek sportowy,Elektronika,899.99
+38,39,9,4,3,2025-04-09,98989,FFF4200,2022-10-18,Lodz,Buty biegowe X,Odzież,299.99
+39,40,8,2,3,2024-08-07,295AB,E30A1E9,2024-02-03,Nieznane,Smartphone Max,Elektronika,3199.99
+40,41,26,7,5,2025-05-08,EB778,6F93BB5,2024-04-01,Nieznane,Czekolada mleczna,Spożywcze,6.99
+41,42,15,3,2,2025-04-24,02741,E178374,2024-10-30,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+42,43,12,4,5,2025-01-12,6A756,F691256,2023-09-18,Wrocław,Buty biegowe X,Odzież,299.99
+43,44,45,2,2,2024-09-13,BBBA0,656E183,2023-02-22,Nieznane,Smartphone Max,Elektronika,3199.99
+44,45,27,1,3,2025-04-01,A7FBC,F6F286C,2023-03-28,Kraków,"Laptop Pro 15""",Elektronika,4999.99
+45,46,2,5,3,2025-03-14,9C128,542CB47,2023-04-18,Nieznane,Kurtka zimowa,Odzież,699.99
+46,47,45,4,5,2024-07-05,BBBA0,656E183,2023-02-22,Nieznane,Buty biegowe X,Odzież,299.99
+47,48,21,2,5,2025-05-03,BBDAD,AF3472B,2024-05-28,Nieznane,Smartphone Max,Elektronika,3199.99
+48,49,38,3,1,2024-10-14,A5DA8,9D8EAD8,2023-07-20,POZNAŃ,Kawa ziarnista 1kg,Spożywcze,59.99
+49,50,43,3,3,2024-07-05,21035,DFFE2F2,2023-02-11,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+50,51,5,1,5,2025-03-02,1118E,CC955C1,2024-07-02,Gdańsk ,"Laptop Pro 15""",Elektronika,4999.99
+51,52,29,4,4,2025-01-03,61394,7C0C33E,2023-06-19,Nieznane,Buty biegowe X,Odzież,299.99
+52,53,46,7,5,2024-12-26,Anna,Nowak,2026-01-01,Kraków,Czekolada mleczna,Spożywcze,6.99
+53,54,44,5,4,2024-11-04,456D5,7D83D21,2023-02-24,Gdańsk ,Kurtka zimowa,Odzież,699.99
+54,55,11,5,5,2024-08-19,9902E,854872D,2024-01-27,Warszawa,Kurtka zimowa,Odzież,699.99
+55,56,33,2,1,2025-01-28,A664C,4964EDE,2024-12-29,Warszawa,Smartphone Max,Elektronika,3199.99
+56,57,37,2,5,2024-12-08,AAB63,EC78CD3,2023-01-27,Nieznane,Smartphone Max,Elektronika,3199.99
+57,58,28,7,5,2025-02-18,B18B6,1751B33,2024-02-16,Krakow,Czekolada mleczna,Spożywcze,6.99
+58,59,32,2,5,2024-09-28,A3B52,305D61E,2022-10-07,Krakow,Smartphone Max,Elektronika,3199.99
+59,60,43,7,1,2025-01-28,21035,DFFE2F2,2023-02-11,Nieznane,Czekolada mleczna,Spożywcze,6.99
+60,61,34,5,5,2024-12-15,7BF45,19BBE96,2023-05-14,Warszawa,Kurtka zimowa,Odzież,699.99
+61,62,22,3,2,2024-12-23,BB8E8,FD5CDA5,2023-05-24,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+62,63,32,2,2,2025-05-29,A3B52,305D61E,2022-10-07,Krakow,Smartphone Max,Elektronika,3199.99
+63,64,2,2,3,2024-07-03,9C128,542CB47,2023-04-18,Nieznane,Smartphone Max,Elektronika,3199.99
+64,65,27,4,3,2025-05-26,A7FBC,F6F286C,2023-03-28,Kraków,Buty biegowe X,Odzież,299.99
+65,66,23,4,1,2025-06-27,C2077,95F9175,2025-05-22,Nieznane,Buty biegowe X,Odzież,299.99
+66,67,30,7,3,2024-11-29,93D01,4DCE31C,2024-11-06,Krakow,Czekolada mleczna,Spożywcze,6.99
+67,68,27,1,2,2024-07-12,A7FBC,F6F286C,2023-03-28,Kraków,"Laptop Pro 15""",Elektronika,4999.99
+68,69,17,3,2,2024-12-15,42C9E,360A3A2,2023-09-24,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+69,70,35,4,3,2024-10-28,83C92,C3081A0,2023-06-23,Gdańsk ,Buty biegowe X,Odzież,299.99
+70,71,22,1,5,2024-10-03,BB8E8,FD5CDA5,2023-05-24,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+71,72,5,4,4,2025-04-21,1118E,CC955C1,2024-07-02,Gdańsk ,Buty biegowe X,Odzież,299.99
+72,73,47,4,3,2025-06-11,Anna,Nowak,2024-05-01,Kraków,Buty biegowe X,Odzież,299.99
+73,74,23,5,3,2025-04-06,C2077,95F9175,2025-05-22,Nieznane,Kurtka zimowa,Odzież,699.99
+74,75,43,5,3,2025-02-14,21035,DFFE2F2,2023-02-11,Nieznane,Kurtka zimowa,Odzież,699.99
+75,76,35,7,1,2024-10-24,83C92,C3081A0,2023-06-23,Gdańsk ,Czekolada mleczna,Spożywcze,6.99
+76,77,1,5,3,2024-10-31,4A761,069E7ED,2022-12-15,Nieznane,Kurtka zimowa,Odzież,699.99
+77,78,5,1,3,2024-08-03,1118E,CC955C1,2024-07-02,Gdańsk ,"Laptop Pro 15""",Elektronika,4999.99
+78,79,36,2,5,2025-06-13,67EDF,A5F741A,2023-04-21,Gdańsk ,Smartphone Max,Elektronika,3199.99
+79,80,30,1,1,2024-11-30,93D01,4DCE31C,2024-11-06,Krakow,"Laptop Pro 15""",Elektronika,4999.99
+80,81,28,4,5,2025-03-08,B18B6,1751B33,2024-02-16,Krakow,Buty biegowe X,Odzież,299.99
+81,82,45,6,4,2024-08-14,BBBA0,656E183,2023-02-22,Nieznane,Zegarek sportowy,Elektronika,899.99
+82,83,17,7,4,2024-07-28,42C9E,360A3A2,2023-09-24,Nieznane,Czekolada mleczna,Spożywcze,6.99
+83,84,24,2,5,2024-07-02,2855A,6C24AAA,2024-04-22,Lodz,Smartphone Max,Elektronika,3199.99
+84,85,38,4,4,2024-11-25,A5DA8,9D8EAD8,2023-07-20,POZNAŃ,Buty biegowe X,Odzież,299.99
+85,86,22,4,4,2025-06-06,BB8E8,FD5CDA5,2023-05-24,Nieznane,Buty biegowe X,Odzież,299.99
+86,87,34,4,1,2025-01-09,7BF45,19BBE96,2023-05-14,Warszawa,Buty biegowe X,Odzież,299.99
+87,88,22,3,2,2025-05-10,BB8E8,FD5CDA5,2023-05-24,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+88,89,46,6,2,2025-01-10,Anna,Nowak,2026-01-01,Kraków,Zegarek sportowy,Elektronika,899.99
+89,90,31,6,3,2025-06-27,F4F13,AC07F62,2023-09-12,Nieznane,Zegarek sportowy,Elektronika,899.99
+90,91,42,7,1,2025-03-29,D201A,0CDE3C6,2022-12-31,Nieznane,Czekolada mleczna,Spożywcze,6.99
+91,92,48,2,5,2025-07-01,Piotr,Zieliński,2025-08-09,Nieznane,Smartphone Max,Elektronika,3199.99
+92,93,19,6,4,2024-07-30,1FBDD,C51B052,2022-11-22,Nieznane,Zegarek sportowy,Elektronika,899.99
+93,94,5,1,2,2025-01-05,1118E,CC955C1,2024-07-02,Gdańsk ,"Laptop Pro 15""",Elektronika,4999.99
+94,95,26,2,5,2024-11-23,EB778,6F93BB5,2024-04-01,Nieznane,Smartphone Max,Elektronika,3199.99
+95,96,3,2,4,2024-09-07,71A41,68983FC,2024-09-26,Lodz,Smartphone Max,Elektronika,3199.99
+96,97,27,6,4,2025-03-02,A7FBC,F6F286C,2023-03-28,Kraków,Zegarek sportowy,Elektronika,899.99
+97,98,11,5,5,2024-11-23,9902E,854872D,2024-01-27,Warszawa,Kurtka zimowa,Odzież,699.99
+98,99,12,4,1,2025-04-04,6A756,F691256,2023-09-18,Wrocław,Buty biegowe X,Odzież,299.99
+99,100,26,1,1,2024-09-06,EB778,6F93BB5,2024-04-01,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+100,101,14,3,4,2024-11-11,315CB,51915AE,2024-05-05,Lodz,Kawa ziarnista 1kg,Spożywcze,59.99
+101,102,24,2,2,2025-01-04,2855A,6C24AAA,2024-04-22,Lodz,Smartphone Max,Elektronika,3199.99
+102,103,8,2,1,2024-11-22,295AB,E30A1E9,2024-02-03,Nieznane,Smartphone Max,Elektronika,3199.99
+103,104,46,1,1,2025-02-27,Anna,Nowak,2026-01-01,Kraków,"Laptop Pro 15""",Elektronika,4999.99
+104,105,37,3,3,2024-11-17,AAB63,EC78CD3,2023-01-27,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+105,106,25,2,5,2025-04-19,134F7,F7FD9E1,2023-08-19,Warszawa,Smartphone Max,Elektronika,3199.99
+106,107,42,2,2,2024-12-12,D201A,0CDE3C6,2022-12-31,Nieznane,Smartphone Max,Elektronika,3199.99
+107,108,47,5,5,2025-01-31,Anna,Nowak,2024-05-01,Kraków,Kurtka zimowa,Odzież,699.99
+108,109,20,1,2,2024-10-29,2DCBA,C58FC21,2024-03-03,Warszawa,"Laptop Pro 15""",Elektronika,4999.99
+109,110,21,6,2,2025-01-08,BBDAD,AF3472B,2024-05-28,Nieznane,Zegarek sportowy,Elektronika,899.99
+110,111,14,3,5,2024-07-22,315CB,51915AE,2024-05-05,Lodz,Kawa ziarnista 1kg,Spożywcze,59.99
+111,112,45,2,4,2025-03-11,BBBA0,656E183,2023-02-22,Nieznane,Smartphone Max,Elektronika,3199.99
+112,113,47,2,1,2024-11-16,Anna,Nowak,2024-05-01,Kraków,Smartphone Max,Elektronika,3199.99
+113,114,5,4,3,2025-06-04,1118E,CC955C1,2024-07-02,Gdańsk ,Buty biegowe X,Odzież,299.99
+114,115,27,4,2,2025-06-30,A7FBC,F6F286C,2023-03-28,Kraków,Buty biegowe X,Odzież,299.99
+115,116,36,4,2,2025-02-24,67EDF,A5F741A,2023-04-21,Gdańsk ,Buty biegowe X,Odzież,299.99
+116,117,18,6,1,2025-02-17,CFFB2,C26C8A4,2024-09-29,Nieznane,Zegarek sportowy,Elektronika,899.99
+117,118,41,1,2,2025-05-23,E4459,938F626,2023-07-20,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+118,119,40,1,4,2025-01-20,384CB,EB6BD6A,2023-05-01,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+119,120,38,1,3,2025-04-08,A5DA8,9D8EAD8,2023-07-20,POZNAŃ,"Laptop Pro 15""",Elektronika,4999.99
+120,121,42,2,4,2025-03-18,D201A,0CDE3C6,2022-12-31,Nieznane,Smartphone Max,Elektronika,3199.99
+121,122,29,4,4,2024-11-22,61394,7C0C33E,2023-06-19,Nieznane,Buty biegowe X,Odzież,299.99
+122,123,25,3,4,2024-08-24,134F7,F7FD9E1,2023-08-19,Warszawa,Kawa ziarnista 1kg,Spożywcze,59.99
+123,124,35,7,1,2024-12-28,83C92,C3081A0,2023-06-23,Gdańsk ,Czekolada mleczna,Spożywcze,6.99
+124,125,19,3,5,2025-06-20,1FBDD,C51B052,2022-11-22,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+125,126,7,2,2,2024-12-24,DF953,6A7AAEF,2024-06-06,Warszawa,Smartphone Max,Elektronika,3199.99
+126,127,25,3,5,2024-11-08,134F7,F7FD9E1,2023-08-19,Warszawa,Kawa ziarnista 1kg,Spożywcze,59.99
+127,128,19,3,5,2024-09-22,1FBDD,C51B052,2022-11-22,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+128,129,38,2,4,2025-06-27,A5DA8,9D8EAD8,2023-07-20,POZNAŃ,Smartphone Max,Elektronika,3199.99
+129,130,22,7,1,2025-06-23,BB8E8,FD5CDA5,2023-05-24,Nieznane,Czekolada mleczna,Spożywcze,6.99
+130,131,1,7,4,2025-05-14,4A761,069E7ED,2022-12-15,Nieznane,Czekolada mleczna,Spożywcze,6.99
+131,132,21,2,3,2025-02-14,BBDAD,AF3472B,2024-05-28,Nieznane,Smartphone Max,Elektronika,3199.99
+132,133,46,6,3,2025-03-23,Anna,Nowak,2026-01-01,Kraków,Zegarek sportowy,Elektronika,899.99
+133,134,11,4,5,2024-10-23,9902E,854872D,2024-01-27,Warszawa,Buty biegowe X,Odzież,299.99
+134,135,31,6,5,2024-11-13,F4F13,AC07F62,2023-09-12,Nieznane,Zegarek sportowy,Elektronika,899.99
+135,136,39,2,4,2024-12-10,823A7,10B86FF,2023-10-31,Nieznane,Smartphone Max,Elektronika,3199.99
+136,137,8,7,3,2025-02-02,295AB,E30A1E9,2024-02-03,Nieznane,Czekolada mleczna,Spożywcze,6.99
+137,138,5,1,3,2024-12-04,1118E,CC955C1,2024-07-02,Gdańsk ,"Laptop Pro 15""",Elektronika,4999.99
+138,139,2,6,1,2024-10-15,9C128,542CB47,2023-04-18,Nieznane,Zegarek sportowy,Elektronika,899.99
+139,140,15,1,5,2025-04-09,02741,E178374,2024-10-30,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+140,141,25,4,1,2024-10-23,134F7,F7FD9E1,2023-08-19,Warszawa,Buty biegowe X,Odzież,299.99
+141,142,35,7,1,2024-11-05,83C92,C3081A0,2023-06-23,Gdańsk ,Czekolada mleczna,Spożywcze,6.99
+142,143,43,6,2,2025-05-12,21035,DFFE2F2,2023-02-11,Nieznane,Zegarek sportowy,Elektronika,899.99
+143,144,45,3,1,2024-08-09,BBBA0,656E183,2023-02-22,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+144,145,33,4,5,2024-12-04,A664C,4964EDE,2024-12-29,Warszawa,Buty biegowe X,Odzież,299.99
+145,146,46,2,1,2025-01-03,Anna,Nowak,2026-01-01,Kraków,Smartphone Max,Elektronika,3199.99
+146,147,7,2,3,2024-11-25,DF953,6A7AAEF,2024-06-06,Warszawa,Smartphone Max,Elektronika,3199.99
+147,148,38,4,5,2024-09-05,A5DA8,9D8EAD8,2023-07-20,POZNAŃ,Buty biegowe X,Odzież,299.99
+148,149,30,1,3,2025-01-30,93D01,4DCE31C,2024-11-06,Krakow,"Laptop Pro 15""",Elektronika,4999.99
+149,150,30,5,5,2025-01-14,93D01,4DCE31C,2024-11-06,Krakow,Kurtka zimowa,Odzież,699.99
+150,151,46,7,4,2025-04-08,Anna,Nowak,2026-01-01,Kraków,Czekolada mleczna,Spożywcze,6.99
+151,152,29,3,4,2025-06-14,61394,7C0C33E,2023-06-19,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+152,153,5,2,2,2025-01-16,1118E,CC955C1,2024-07-02,Gdańsk ,Smartphone Max,Elektronika,3199.99
+153,154,7,5,5,2024-11-20,DF953,6A7AAEF,2024-06-06,Warszawa,Kurtka zimowa,Odzież,699.99
+154,155,36,3,2,2025-01-10,67EDF,A5F741A,2023-04-21,Gdańsk ,Kawa ziarnista 1kg,Spożywcze,59.99
+155,156,19,7,1,2025-01-29,1FBDD,C51B052,2022-11-22,Nieznane,Czekolada mleczna,Spożywcze,6.99
+156,157,8,4,3,2025-03-24,295AB,E30A1E9,2024-02-03,Nieznane,Buty biegowe X,Odzież,299.99
+157,158,10,6,4,2024-12-17,5349F,13CE7DE,2023-04-27,Nieznane,Zegarek sportowy,Elektronika,899.99
+158,159,7,2,3,2025-03-24,DF953,6A7AAEF,2024-06-06,Warszawa,Smartphone Max,Elektronika,3199.99
+159,160,11,7,2,2025-04-18,9902E,854872D,2024-01-27,Warszawa,Czekolada mleczna,Spożywcze,6.99
+160,161,26,7,1,2024-11-20,EB778,6F93BB5,2024-04-01,Nieznane,Czekolada mleczna,Spożywcze,6.99
+161,162,23,4,4,2024-12-12,C2077,95F9175,2025-05-22,Nieznane,Buty biegowe X,Odzież,299.99
+162,163,20,6,5,2025-03-10,2DCBA,C58FC21,2024-03-03,Warszawa,Zegarek sportowy,Elektronika,899.99
+163,164,4,7,1,2025-02-25,3AEC1,4B236DB,2023-05-25,warszawa,Czekolada mleczna,Spożywcze,6.99
+164,165,38,7,2,2024-11-30,A5DA8,9D8EAD8,2023-07-20,POZNAŃ,Czekolada mleczna,Spożywcze,6.99
+165,166,3,6,2,2024-11-05,71A41,68983FC,2024-09-26,Lodz,Zegarek sportowy,Elektronika,899.99
+166,167,22,5,4,2025-03-21,BB8E8,FD5CDA5,2023-05-24,Nieznane,Kurtka zimowa,Odzież,699.99
+167,168,41,1,3,2024-09-27,E4459,938F626,2023-07-20,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+168,169,31,1,1,2024-09-24,F4F13,AC07F62,2023-09-12,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+169,170,30,7,3,2024-07-25,93D01,4DCE31C,2024-11-06,Krakow,Czekolada mleczna,Spożywcze,6.99
+170,171,7,5,1,2025-06-26,DF953,6A7AAEF,2024-06-06,Warszawa,Kurtka zimowa,Odzież,699.99
+171,172,26,2,5,2024-08-20,EB778,6F93BB5,2024-04-01,Nieznane,Smartphone Max,Elektronika,3199.99
+172,173,28,3,4,2024-09-13,B18B6,1751B33,2024-02-16,Krakow,Kawa ziarnista 1kg,Spożywcze,59.99
+173,174,46,5,3,2025-01-06,Anna,Nowak,2026-01-01,Kraków,Kurtka zimowa,Odzież,699.99
+174,175,7,6,2,2025-06-13,DF953,6A7AAEF,2024-06-06,Warszawa,Zegarek sportowy,Elektronika,899.99
+175,176,1,5,1,2025-01-20,4A761,069E7ED,2022-12-15,Nieznane,Kurtka zimowa,Odzież,699.99
+176,177,18,3,5,2025-04-13,CFFB2,C26C8A4,2024-09-29,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+177,178,39,5,3,2025-03-05,823A7,10B86FF,2023-10-31,Nieznane,Kurtka zimowa,Odzież,699.99
+178,179,12,7,3,2025-01-30,6A756,F691256,2023-09-18,Wrocław,Czekolada mleczna,Spożywcze,6.99
+179,180,3,2,4,2024-08-13,71A41,68983FC,2024-09-26,Lodz,Smartphone Max,Elektronika,3199.99
+180,181,7,3,2,2024-10-30,DF953,6A7AAEF,2024-06-06,Warszawa,Kawa ziarnista 1kg,Spożywcze,59.99
+181,182,48,2,5,2025-03-11,Piotr,Zieliński,2025-08-09,Nieznane,Smartphone Max,Elektronika,3199.99
+182,183,28,2,1,2024-07-11,B18B6,1751B33,2024-02-16,Krakow,Smartphone Max,Elektronika,3199.99
+183,184,16,2,2,2025-01-02,DD797,E1C5C15,2023-09-28,Nieznane,Smartphone Max,Elektronika,3199.99
+184,185,46,3,3,2024-10-09,Anna,Nowak,2026-01-01,Kraków,Kawa ziarnista 1kg,Spożywcze,59.99
+185,186,47,2,1,2025-06-16,Anna,Nowak,2024-05-01,Kraków,Smartphone Max,Elektronika,3199.99
+186,187,16,4,2,2024-10-22,DD797,E1C5C15,2023-09-28,Nieznane,Buty biegowe X,Odzież,299.99
+187,188,40,6,1,2025-03-10,384CB,EB6BD6A,2023-05-01,Nieznane,Zegarek sportowy,Elektronika,899.99
+188,189,33,7,5,2025-02-07,A664C,4964EDE,2024-12-29,Warszawa,Czekolada mleczna,Spożywcze,6.99
+189,190,13,1,1,2025-06-07,DF105,447D077,2023-12-06,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+190,191,48,4,2,2025-02-15,Piotr,Zieliński,2025-08-09,Nieznane,Buty biegowe X,Odzież,299.99
+191,192,41,3,4,2024-10-30,E4459,938F626,2023-07-20,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+192,193,24,2,2,2025-03-16,2855A,6C24AAA,2024-04-22,Lodz,Smartphone Max,Elektronika,3199.99
+193,194,17,5,4,2025-06-25,42C9E,360A3A2,2023-09-24,Nieznane,Kurtka zimowa,Odzież,699.99
+194,195,46,7,3,2025-04-01,Anna,Nowak,2026-01-01,Kraków,Czekolada mleczna,Spożywcze,6.99
+195,196,7,7,5,2024-09-16,DF953,6A7AAEF,2024-06-06,Warszawa,Czekolada mleczna,Spożywcze,6.99
+196,197,11,5,1,2024-07-12,9902E,854872D,2024-01-27,Warszawa,Kurtka zimowa,Odzież,699.99
+197,198,23,3,2,2024-10-20,C2077,95F9175,2025-05-22,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+198,199,36,7,5,2024-11-18,67EDF,A5F741A,2023-04-21,Gdańsk ,Czekolada mleczna,Spożywcze,6.99
+199,200,38,5,1,2025-02-14,A5DA8,9D8EAD8,2023-07-20,POZNAŃ,Kurtka zimowa,Odzież,699.99
+200,201,36,3,2,2025-03-06,67EDF,A5F741A,2023-04-21,Gdańsk ,Kawa ziarnista 1kg,Spożywcze,59.99
+201,202,32,2,5,2024-10-10,A3B52,305D61E,2022-10-07,Krakow,Smartphone Max,Elektronika,3199.99
+202,203,17,7,5,2024-12-11,42C9E,360A3A2,2023-09-24,Nieznane,Czekolada mleczna,Spożywcze,6.99
+203,204,14,3,2,2025-06-29,315CB,51915AE,2024-05-05,Lodz,Kawa ziarnista 1kg,Spożywcze,59.99
+204,205,23,1,2,2024-07-05,C2077,95F9175,2025-05-22,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+205,206,15,5,5,2024-09-07,02741,E178374,2024-10-30,Nieznane,Kurtka zimowa,Odzież,699.99
+206,207,48,3,5,2024-10-07,Piotr,Zieliński,2025-08-09,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+207,208,9,7,1,2025-05-26,98989,FFF4200,2022-10-18,Lodz,Czekolada mleczna,Spożywcze,6.99
+208,209,11,7,4,2025-02-14,9902E,854872D,2024-01-27,Warszawa,Czekolada mleczna,Spożywcze,6.99
+209,210,30,4,4,2025-05-09,93D01,4DCE31C,2024-11-06,Krakow,Buty biegowe X,Odzież,299.99
+210,211,7,2,3,2025-06-21,DF953,6A7AAEF,2024-06-06,Warszawa,Smartphone Max,Elektronika,3199.99
+211,212,7,5,2,2024-11-23,DF953,6A7AAEF,2024-06-06,Warszawa,Kurtka zimowa,Odzież,699.99
+212,213,2,1,4,2024-12-18,9C128,542CB47,2023-04-18,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+213,214,19,4,3,2024-07-31,1FBDD,C51B052,2022-11-22,Nieznane,Buty biegowe X,Odzież,299.99
+214,215,5,2,5,2025-02-09,1118E,CC955C1,2024-07-02,Gdańsk ,Smartphone Max,Elektronika,3199.99
+215,216,21,5,1,2024-11-10,BBDAD,AF3472B,2024-05-28,Nieznane,Kurtka zimowa,Odzież,699.99
+216,217,35,2,2,2024-08-20,83C92,C3081A0,2023-06-23,Gdańsk ,Smartphone Max,Elektronika,3199.99
+217,218,33,4,4,2024-09-19,A664C,4964EDE,2024-12-29,Warszawa,Buty biegowe X,Odzież,299.99
+218,219,31,6,5,2024-08-02,F4F13,AC07F62,2023-09-12,Nieznane,Zegarek sportowy,Elektronika,899.99
+219,220,13,3,3,2024-12-28,DF105,447D077,2023-12-06,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+220,221,41,6,4,2024-12-10,E4459,938F626,2023-07-20,Nieznane,Zegarek sportowy,Elektronika,899.99
+221,222,2,1,5,2024-07-11,9C128,542CB47,2023-04-18,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+222,223,6,2,2,2025-03-16,6D1B7,3967D2B,2023-09-27,Nieznane,Smartphone Max,Elektronika,3199.99
+223,224,4,2,4,2024-07-17,3AEC1,4B236DB,2023-05-25,warszawa,Smartphone Max,Elektronika,3199.99
+224,225,9,4,1,2025-02-28,98989,FFF4200,2022-10-18,Lodz,Buty biegowe X,Odzież,299.99
+225,226,44,6,1,2025-04-25,456D5,7D83D21,2023-02-24,Gdańsk ,Zegarek sportowy,Elektronika,899.99
+226,227,36,6,4,2025-06-15,67EDF,A5F741A,2023-04-21,Gdańsk ,Zegarek sportowy,Elektronika,899.99
+227,228,45,5,1,2024-11-24,BBBA0,656E183,2023-02-22,Nieznane,Kurtka zimowa,Odzież,699.99
+228,229,15,6,3,2024-11-09,02741,E178374,2024-10-30,Nieznane,Zegarek sportowy,Elektronika,899.99
+229,230,44,7,4,2025-06-06,456D5,7D83D21,2023-02-24,Gdańsk ,Czekolada mleczna,Spożywcze,6.99
+230,231,21,7,4,2024-12-12,BBDAD,AF3472B,2024-05-28,Nieznane,Czekolada mleczna,Spożywcze,6.99
+231,232,21,3,5,2024-10-11,BBDAD,AF3472B,2024-05-28,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+232,233,17,5,1,2025-03-27,42C9E,360A3A2,2023-09-24,Nieznane,Kurtka zimowa,Odzież,699.99
+233,234,6,3,3,2024-11-24,6D1B7,3967D2B,2023-09-27,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+234,235,29,4,5,2025-05-18,61394,7C0C33E,2023-06-19,Nieznane,Buty biegowe X,Odzież,299.99
+235,236,44,6,5,2025-04-27,456D5,7D83D21,2023-02-24,Gdańsk ,Zegarek sportowy,Elektronika,899.99
+236,237,37,2,3,2025-02-13,AAB63,EC78CD3,2023-01-27,Nieznane,Smartphone Max,Elektronika,3199.99
+237,238,4,6,5,2024-12-21,3AEC1,4B236DB,2023-05-25,warszawa,Zegarek sportowy,Elektronika,899.99
+238,239,12,7,2,2024-07-17,6A756,F691256,2023-09-18,Wrocław,Czekolada mleczna,Spożywcze,6.99
+239,240,38,7,4,2025-04-30,A5DA8,9D8EAD8,2023-07-20,POZNAŃ,Czekolada mleczna,Spożywcze,6.99
+240,241,13,2,4,2024-12-21,DF105,447D077,2023-12-06,Nieznane,Smartphone Max,Elektronika,3199.99
+241,242,2,4,5,2025-06-07,9C128,542CB47,2023-04-18,Nieznane,Buty biegowe X,Odzież,299.99
+242,243,42,2,3,2024-09-05,D201A,0CDE3C6,2022-12-31,Nieznane,Smartphone Max,Elektronika,3199.99
+243,244,38,7,5,2024-08-17,A5DA8,9D8EAD8,2023-07-20,POZNAŃ,Czekolada mleczna,Spożywcze,6.99
+244,245,36,1,5,2025-04-20,67EDF,A5F741A,2023-04-21,Gdańsk ,"Laptop Pro 15""",Elektronika,4999.99
+245,246,45,5,5,2024-11-14,BBBA0,656E183,2023-02-22,Nieznane,Kurtka zimowa,Odzież,699.99
+246,247,19,4,2,2024-11-26,1FBDD,C51B052,2022-11-22,Nieznane,Buty biegowe X,Odzież,299.99
+247,248,44,4,2,2024-11-17,456D5,7D83D21,2023-02-24,Gdańsk ,Buty biegowe X,Odzież,299.99
+248,249,38,3,4,2025-02-07,A5DA8,9D8EAD8,2023-07-20,POZNAŃ,Kawa ziarnista 1kg,Spożywcze,59.99
+249,250,7,1,1,2025-03-28,DF953,6A7AAEF,2024-06-06,Warszawa,"Laptop Pro 15""",Elektronika,4999.99
+250,251,22,2,2,2025-04-15,BB8E8,FD5CDA5,2023-05-24,Nieznane,Smartphone Max,Elektronika,3199.99
+251,252,2,4,3,2025-06-11,9C128,542CB47,2023-04-18,Nieznane,Buty biegowe X,Odzież,299.99
+252,253,11,2,2,2024-08-06,9902E,854872D,2024-01-27,Warszawa,Smartphone Max,Elektronika,3199.99
+253,254,41,6,2,2024-10-25,E4459,938F626,2023-07-20,Nieznane,Zegarek sportowy,Elektronika,899.99
+254,255,14,3,2,2025-05-17,315CB,51915AE,2024-05-05,Lodz,Kawa ziarnista 1kg,Spożywcze,59.99
+255,256,6,3,3,2024-10-10,6D1B7,3967D2B,2023-09-27,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+256,257,30,6,5,2025-01-29,93D01,4DCE31C,2024-11-06,Krakow,Zegarek sportowy,Elektronika,899.99
+257,258,48,1,3,2024-09-26,Piotr,Zieliński,2025-08-09,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+258,259,44,3,2,2025-02-06,456D5,7D83D21,2023-02-24,Gdańsk ,Kawa ziarnista 1kg,Spożywcze,59.99
+259,260,16,4,5,2024-10-01,DD797,E1C5C15,2023-09-28,Nieznane,Buty biegowe X,Odzież,299.99
+260,261,30,4,3,2024-09-03,93D01,4DCE31C,2024-11-06,Krakow,Buty biegowe X,Odzież,299.99
+261,262,31,3,5,2024-08-13,F4F13,AC07F62,2023-09-12,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+262,263,10,4,3,2024-10-18,5349F,13CE7DE,2023-04-27,Nieznane,Buty biegowe X,Odzież,299.99
+263,264,35,4,5,2024-10-18,83C92,C3081A0,2023-06-23,Gdańsk ,Buty biegowe X,Odzież,299.99
+264,265,15,6,4,2024-09-14,02741,E178374,2024-10-30,Nieznane,Zegarek sportowy,Elektronika,899.99
+265,266,1,1,4,2024-08-31,4A761,069E7ED,2022-12-15,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+266,267,31,5,2,2024-12-26,F4F13,AC07F62,2023-09-12,Nieznane,Kurtka zimowa,Odzież,699.99
+267,268,32,7,4,2024-12-26,A3B52,305D61E,2022-10-07,Krakow,Czekolada mleczna,Spożywcze,6.99
+268,269,26,3,4,2024-12-18,EB778,6F93BB5,2024-04-01,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+269,270,12,3,1,2024-12-17,6A756,F691256,2023-09-18,Wrocław,Kawa ziarnista 1kg,Spożywcze,59.99
+270,271,40,3,2,2024-09-12,384CB,EB6BD6A,2023-05-01,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+271,272,39,5,4,2024-12-20,823A7,10B86FF,2023-10-31,Nieznane,Kurtka zimowa,Odzież,699.99
+272,273,24,6,3,2025-04-26,2855A,6C24AAA,2024-04-22,Lodz,Zegarek sportowy,Elektronika,899.99
+273,274,4,4,3,2024-09-24,3AEC1,4B236DB,2023-05-25,warszawa,Buty biegowe X,Odzież,299.99
+274,275,18,4,5,2025-06-18,CFFB2,C26C8A4,2024-09-29,Nieznane,Buty biegowe X,Odzież,299.99
+275,276,20,4,3,2024-08-30,2DCBA,C58FC21,2024-03-03,Warszawa,Buty biegowe X,Odzież,299.99
+276,277,14,2,3,2025-06-04,315CB,51915AE,2024-05-05,Lodz,Smartphone Max,Elektronika,3199.99
+277,278,13,5,5,2024-07-20,DF105,447D077,2023-12-06,Nieznane,Kurtka zimowa,Odzież,699.99
+278,279,37,5,5,2025-04-08,AAB63,EC78CD3,2023-01-27,Nieznane,Kurtka zimowa,Odzież,699.99
+279,280,36,6,4,2025-05-13,67EDF,A5F741A,2023-04-21,Gdańsk ,Zegarek sportowy,Elektronika,899.99
+280,281,40,1,1,2025-01-28,384CB,EB6BD6A,2023-05-01,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+281,282,42,5,1,2024-09-22,D201A,0CDE3C6,2022-12-31,Nieznane,Kurtka zimowa,Odzież,699.99
+282,283,44,1,4,2025-06-01,456D5,7D83D21,2023-02-24,Gdańsk ,"Laptop Pro 15""",Elektronika,4999.99
+283,284,13,6,2,2025-06-03,DF105,447D077,2023-12-06,Nieznane,Zegarek sportowy,Elektronika,899.99
+284,285,9,2,3,2025-01-07,98989,FFF4200,2022-10-18,Lodz,Smartphone Max,Elektronika,3199.99
+285,286,1,1,5,2024-10-08,4A761,069E7ED,2022-12-15,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+286,287,3,4,5,2025-05-07,71A41,68983FC,2024-09-26,Lodz,Buty biegowe X,Odzież,299.99
+287,288,45,1,5,2024-11-23,BBBA0,656E183,2023-02-22,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+288,289,21,4,3,2024-10-12,BBDAD,AF3472B,2024-05-28,Nieznane,Buty biegowe X,Odzież,299.99
+289,290,16,4,5,2024-09-06,DD797,E1C5C15,2023-09-28,Nieznane,Buty biegowe X,Odzież,299.99
+290,291,46,1,2,2024-11-30,Anna,Nowak,2026-01-01,Kraków,"Laptop Pro 15""",Elektronika,4999.99
+291,292,10,2,5,2025-01-04,5349F,13CE7DE,2023-04-27,Nieznane,Smartphone Max,Elektronika,3199.99
+292,293,5,2,2,2025-02-06,1118E,CC955C1,2024-07-02,Gdańsk ,Smartphone Max,Elektronika,3199.99
+293,294,30,5,5,2024-11-20,93D01,4DCE31C,2024-11-06,Krakow,Kurtka zimowa,Odzież,699.99
+294,295,29,6,1,2025-06-28,61394,7C0C33E,2023-06-19,Nieznane,Zegarek sportowy,Elektronika,899.99
+295,296,12,7,1,2024-08-10,6A756,F691256,2023-09-18,Wrocław,Czekolada mleczna,Spożywcze,6.99
+296,297,13,3,2,2024-08-28,DF105,447D077,2023-12-06,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+297,298,43,2,4,2025-05-18,21035,DFFE2F2,2023-02-11,Nieznane,Smartphone Max,Elektronika,3199.99
+298,299,4,6,5,2025-06-01,3AEC1,4B236DB,2023-05-25,warszawa,Zegarek sportowy,Elektronika,899.99
+299,300,4,1,5,2025-06-22,3AEC1,4B236DB,2023-05-25,warszawa,"Laptop Pro 15""",Elektronika,4999.99
+300,301,19,7,3,2024-11-23,1FBDD,C51B052,2022-11-22,Nieznane,Czekolada mleczna,Spożywcze,6.99
+301,302,18,7,2,2025-05-16,CFFB2,C26C8A4,2024-09-29,Nieznane,Czekolada mleczna,Spożywcze,6.99
+302,303,37,2,1,2025-01-04,AAB63,EC78CD3,2023-01-27,Nieznane,Smartphone Max,Elektronika,3199.99
+303,304,40,7,2,2025-03-24,384CB,EB6BD6A,2023-05-01,Nieznane,Czekolada mleczna,Spożywcze,6.99
+304,305,36,1,2,2025-05-11,67EDF,A5F741A,2023-04-21,Gdańsk ,"Laptop Pro 15""",Elektronika,4999.99
+305,306,25,3,4,2024-09-09,134F7,F7FD9E1,2023-08-19,Warszawa,Kawa ziarnista 1kg,Spożywcze,59.99
+306,307,26,1,1,2024-08-18,EB778,6F93BB5,2024-04-01,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+307,308,35,6,4,2024-11-30,83C92,C3081A0,2023-06-23,Gdańsk ,Zegarek sportowy,Elektronika,899.99
+308,309,40,2,1,2025-05-13,384CB,EB6BD6A,2023-05-01,Nieznane,Smartphone Max,Elektronika,3199.99
+309,310,9,3,5,2024-10-17,98989,FFF4200,2022-10-18,Lodz,Kawa ziarnista 1kg,Spożywcze,59.99
+310,311,9,3,1,2024-11-17,98989,FFF4200,2022-10-18,Lodz,Kawa ziarnista 1kg,Spożywcze,59.99
+311,312,26,5,5,2025-04-27,EB778,6F93BB5,2024-04-01,Nieznane,Kurtka zimowa,Odzież,699.99
+312,313,9,7,5,2025-03-27,98989,FFF4200,2022-10-18,Lodz,Czekolada mleczna,Spożywcze,6.99
+313,314,33,3,2,2024-07-16,A664C,4964EDE,2024-12-29,Warszawa,Kawa ziarnista 1kg,Spożywcze,59.99
+314,315,7,5,4,2024-08-01,DF953,6A7AAEF,2024-06-06,Warszawa,Kurtka zimowa,Odzież,699.99
+315,316,46,6,1,2025-02-20,Anna,Nowak,2026-01-01,Kraków,Zegarek sportowy,Elektronika,899.99
+316,317,43,5,5,2025-03-20,21035,DFFE2F2,2023-02-11,Nieznane,Kurtka zimowa,Odzież,699.99
+317,318,16,7,5,2025-01-26,DD797,E1C5C15,2023-09-28,Nieznane,Czekolada mleczna,Spożywcze,6.99
+318,319,48,1,2,2024-07-06,Piotr,Zieliński,2025-08-09,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+319,320,38,3,5,2024-07-24,A5DA8,9D8EAD8,2023-07-20,POZNAŃ,Kawa ziarnista 1kg,Spożywcze,59.99
+320,321,31,1,2,2025-02-08,F4F13,AC07F62,2023-09-12,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+321,322,14,5,1,2024-10-26,315CB,51915AE,2024-05-05,Lodz,Kurtka zimowa,Odzież,699.99
+322,323,44,2,1,2024-10-28,456D5,7D83D21,2023-02-24,Gdańsk ,Smartphone Max,Elektronika,3199.99
+323,324,1,6,1,2024-09-07,4A761,069E7ED,2022-12-15,Nieznane,Zegarek sportowy,Elektronika,899.99
+324,325,25,5,2,2024-08-09,134F7,F7FD9E1,2023-08-19,Warszawa,Kurtka zimowa,Odzież,699.99
+325,326,22,6,3,2024-12-27,BB8E8,FD5CDA5,2023-05-24,Nieznane,Zegarek sportowy,Elektronika,899.99
+326,327,19,4,5,2024-10-02,1FBDD,C51B052,2022-11-22,Nieznane,Buty biegowe X,Odzież,299.99
+327,328,45,4,3,2025-02-20,BBBA0,656E183,2023-02-22,Nieznane,Buty biegowe X,Odzież,299.99
+328,329,28,7,1,2025-03-13,B18B6,1751B33,2024-02-16,Krakow,Czekolada mleczna,Spożywcze,6.99
+329,330,33,1,4,2025-06-10,A664C,4964EDE,2024-12-29,Warszawa,"Laptop Pro 15""",Elektronika,4999.99
+330,331,7,5,5,2024-07-12,DF953,6A7AAEF,2024-06-06,Warszawa,Kurtka zimowa,Odzież,699.99
+331,332,39,1,3,2025-03-25,823A7,10B86FF,2023-10-31,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+332,333,44,4,1,2024-12-23,456D5,7D83D21,2023-02-24,Gdańsk ,Buty biegowe X,Odzież,299.99
+333,334,48,7,1,2024-08-20,Piotr,Zieliński,2025-08-09,Nieznane,Czekolada mleczna,Spożywcze,6.99
+334,335,26,1,4,2025-02-19,EB778,6F93BB5,2024-04-01,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+335,336,35,4,2,2025-03-05,83C92,C3081A0,2023-06-23,Gdańsk ,Buty biegowe X,Odzież,299.99
+336,337,29,4,1,2025-06-28,61394,7C0C33E,2023-06-19,Nieznane,Buty biegowe X,Odzież,299.99
+337,338,39,6,5,2025-01-27,823A7,10B86FF,2023-10-31,Nieznane,Zegarek sportowy,Elektronika,899.99
+338,339,6,5,5,2024-10-31,6D1B7,3967D2B,2023-09-27,Nieznane,Kurtka zimowa,Odzież,699.99
+339,340,14,5,3,2024-09-08,315CB,51915AE,2024-05-05,Lodz,Kurtka zimowa,Odzież,699.99
+340,341,46,5,5,2024-11-23,Anna,Nowak,2026-01-01,Kraków,Kurtka zimowa,Odzież,699.99
+341,342,10,6,4,2025-03-28,5349F,13CE7DE,2023-04-27,Nieznane,Zegarek sportowy,Elektronika,899.99
+342,343,42,7,3,2025-02-14,D201A,0CDE3C6,2022-12-31,Nieznane,Czekolada mleczna,Spożywcze,6.99
+343,344,47,7,2,2024-08-14,Anna,Nowak,2024-05-01,Kraków,Czekolada mleczna,Spożywcze,6.99
+344,345,17,3,4,2025-05-03,42C9E,360A3A2,2023-09-24,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+345,346,30,4,2,2024-10-16,93D01,4DCE31C,2024-11-06,Krakow,Buty biegowe X,Odzież,299.99
+346,347,12,5,5,2024-11-12,6A756,F691256,2023-09-18,Wrocław,Kurtka zimowa,Odzież,699.99
+347,348,20,1,5,2024-08-24,2DCBA,C58FC21,2024-03-03,Warszawa,"Laptop Pro 15""",Elektronika,4999.99
+348,349,12,7,1,2024-09-28,6A756,F691256,2023-09-18,Wrocław,Czekolada mleczna,Spożywcze,6.99
+349,350,42,6,4,2024-08-28,D201A,0CDE3C6,2022-12-31,Nieznane,Zegarek sportowy,Elektronika,899.99
+350,351,13,1,5,2024-12-26,DF105,447D077,2023-12-06,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+351,352,25,6,3,2024-12-07,134F7,F7FD9E1,2023-08-19,Warszawa,Zegarek sportowy,Elektronika,899.99
+352,353,25,5,2,2024-08-07,134F7,F7FD9E1,2023-08-19,Warszawa,Kurtka zimowa,Odzież,699.99
+353,354,30,1,5,2025-02-02,93D01,4DCE31C,2024-11-06,Krakow,"Laptop Pro 15""",Elektronika,4999.99
+354,355,15,7,2,2024-10-22,02741,E178374,2024-10-30,Nieznane,Czekolada mleczna,Spożywcze,6.99
+355,356,10,2,1,2025-01-26,5349F,13CE7DE,2023-04-27,Nieznane,Smartphone Max,Elektronika,3199.99
+356,357,14,6,5,2025-04-04,315CB,51915AE,2024-05-05,Lodz,Zegarek sportowy,Elektronika,899.99
+357,358,25,6,2,2025-05-13,134F7,F7FD9E1,2023-08-19,Warszawa,Zegarek sportowy,Elektronika,899.99
+358,359,44,7,5,2024-09-16,456D5,7D83D21,2023-02-24,Gdańsk ,Czekolada mleczna,Spożywcze,6.99
+359,360,26,5,2,2024-10-11,EB778,6F93BB5,2024-04-01,Nieznane,Kurtka zimowa,Odzież,699.99
+360,361,27,1,4,2024-11-12,A7FBC,F6F286C,2023-03-28,Kraków,"Laptop Pro 15""",Elektronika,4999.99
+361,362,40,2,3,2025-05-20,384CB,EB6BD6A,2023-05-01,Nieznane,Smartphone Max,Elektronika,3199.99
+362,363,43,3,5,2024-12-25,21035,DFFE2F2,2023-02-11,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+363,364,45,4,2,2025-01-02,BBBA0,656E183,2023-02-22,Nieznane,Buty biegowe X,Odzież,299.99
+364,365,2,3,2,2025-04-28,9C128,542CB47,2023-04-18,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+365,366,35,2,2,2025-05-15,83C92,C3081A0,2023-06-23,Gdańsk ,Smartphone Max,Elektronika,3199.99
+366,367,38,3,4,2024-08-19,A5DA8,9D8EAD8,2023-07-20,POZNAŃ,Kawa ziarnista 1kg,Spożywcze,59.99
+367,368,42,4,1,2025-04-21,D201A,0CDE3C6,2022-12-31,Nieznane,Buty biegowe X,Odzież,299.99
+368,369,8,7,2,2024-11-08,295AB,E30A1E9,2024-02-03,Nieznane,Czekolada mleczna,Spożywcze,6.99
+369,370,25,1,1,2024-07-10,134F7,F7FD9E1,2023-08-19,Warszawa,"Laptop Pro 15""",Elektronika,4999.99
+370,371,38,7,3,2024-12-04,A5DA8,9D8EAD8,2023-07-20,POZNAŃ,Czekolada mleczna,Spożywcze,6.99
+371,372,41,5,2,2025-05-21,E4459,938F626,2023-07-20,Nieznane,Kurtka zimowa,Odzież,699.99
+372,373,37,7,5,2024-12-02,AAB63,EC78CD3,2023-01-27,Nieznane,Czekolada mleczna,Spożywcze,6.99
+373,374,3,2,4,2025-05-07,71A41,68983FC,2024-09-26,Lodz,Smartphone Max,Elektronika,3199.99
+374,375,42,2,4,2025-02-22,D201A,0CDE3C6,2022-12-31,Nieznane,Smartphone Max,Elektronika,3199.99
+375,376,23,6,5,2024-12-09,C2077,95F9175,2025-05-22,Nieznane,Zegarek sportowy,Elektronika,899.99
+376,377,33,7,3,2024-10-14,A664C,4964EDE,2024-12-29,Warszawa,Czekolada mleczna,Spożywcze,6.99
+377,378,2,5,5,2025-03-15,9C128,542CB47,2023-04-18,Nieznane,Kurtka zimowa,Odzież,699.99
+378,379,29,1,3,2025-01-16,61394,7C0C33E,2023-06-19,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+379,380,45,3,2,2025-05-30,BBBA0,656E183,2023-02-22,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+380,381,42,1,5,2024-09-30,D201A,0CDE3C6,2022-12-31,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+381,382,46,7,3,2025-01-12,Anna,Nowak,2026-01-01,Kraków,Czekolada mleczna,Spożywcze,6.99
+382,383,21,3,3,2025-03-05,BBDAD,AF3472B,2024-05-28,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+383,384,38,7,3,2025-03-23,A5DA8,9D8EAD8,2023-07-20,POZNAŃ,Czekolada mleczna,Spożywcze,6.99
+384,385,47,6,1,2025-06-12,Anna,Nowak,2024-05-01,Kraków,Zegarek sportowy,Elektronika,899.99
+385,386,2,1,1,2025-03-26,9C128,542CB47,2023-04-18,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+386,387,7,6,1,2024-12-21,DF953,6A7AAEF,2024-06-06,Warszawa,Zegarek sportowy,Elektronika,899.99
+387,388,4,1,3,2025-05-05,3AEC1,4B236DB,2023-05-25,warszawa,"Laptop Pro 15""",Elektronika,4999.99
+388,389,23,4,3,2025-04-02,C2077,95F9175,2025-05-22,Nieznane,Buty biegowe X,Odzież,299.99
+389,390,12,7,2,2024-12-06,6A756,F691256,2023-09-18,Wrocław,Czekolada mleczna,Spożywcze,6.99
+390,391,31,4,2,2024-09-17,F4F13,AC07F62,2023-09-12,Nieznane,Buty biegowe X,Odzież,299.99
+391,392,3,5,2,2025-03-31,71A41,68983FC,2024-09-26,Lodz,Kurtka zimowa,Odzież,699.99
+392,393,28,1,1,2025-02-08,B18B6,1751B33,2024-02-16,Krakow,"Laptop Pro 15""",Elektronika,4999.99
+393,394,20,4,1,2025-02-09,2DCBA,C58FC21,2024-03-03,Warszawa,Buty biegowe X,Odzież,299.99
+394,395,9,1,2,2025-03-28,98989,FFF4200,2022-10-18,Lodz,"Laptop Pro 15""",Elektronika,4999.99
+395,396,37,2,4,2025-04-16,AAB63,EC78CD3,2023-01-27,Nieznane,Smartphone Max,Elektronika,3199.99
+396,397,12,6,2,2024-11-03,6A756,F691256,2023-09-18,Wrocław,Zegarek sportowy,Elektronika,899.99
+397,398,5,7,5,2024-11-29,1118E,CC955C1,2024-07-02,Gdańsk ,Czekolada mleczna,Spożywcze,6.99
+398,399,44,6,5,2025-04-25,456D5,7D83D21,2023-02-24,Gdańsk ,Zegarek sportowy,Elektronika,899.99
+399,400,13,5,4,2024-10-30,DF105,447D077,2023-12-06,Nieznane,Kurtka zimowa,Odzież,699.99
+400,401,34,2,4,2024-08-08,7BF45,19BBE96,2023-05-14,Warszawa,Smartphone Max,Elektronika,3199.99
+401,402,29,3,5,2025-05-02,61394,7C0C33E,2023-06-19,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+402,403,3,6,1,2025-04-10,71A41,68983FC,2024-09-26,Lodz,Zegarek sportowy,Elektronika,899.99
+403,404,4,4,3,2024-10-22,3AEC1,4B236DB,2023-05-25,warszawa,Buty biegowe X,Odzież,299.99
+404,405,47,5,3,2025-04-24,Anna,Nowak,2024-05-01,Kraków,Kurtka zimowa,Odzież,699.99
+405,406,9,4,4,2024-11-02,98989,FFF4200,2022-10-18,Lodz,Buty biegowe X,Odzież,299.99
+406,407,8,3,1,2024-09-13,295AB,E30A1E9,2024-02-03,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+407,408,25,3,2,2025-03-18,134F7,F7FD9E1,2023-08-19,Warszawa,Kawa ziarnista 1kg,Spożywcze,59.99
+408,409,33,2,3,2025-02-06,A664C,4964EDE,2024-12-29,Warszawa,Smartphone Max,Elektronika,3199.99
+409,410,15,7,1,2025-01-07,02741,E178374,2024-10-30,Nieznane,Czekolada mleczna,Spożywcze,6.99
+410,411,47,7,5,2024-11-12,Anna,Nowak,2024-05-01,Kraków,Czekolada mleczna,Spożywcze,6.99
+411,412,26,3,5,2025-03-30,EB778,6F93BB5,2024-04-01,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+412,413,26,1,5,2025-01-28,EB778,6F93BB5,2024-04-01,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+413,414,24,7,3,2024-12-14,2855A,6C24AAA,2024-04-22,Lodz,Czekolada mleczna,Spożywcze,6.99
+414,415,36,3,1,2024-11-15,67EDF,A5F741A,2023-04-21,Gdańsk ,Kawa ziarnista 1kg,Spożywcze,59.99
+415,416,10,3,4,2025-04-29,5349F,13CE7DE,2023-04-27,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+416,417,17,6,5,2025-05-30,42C9E,360A3A2,2023-09-24,Nieznane,Zegarek sportowy,Elektronika,899.99
+417,418,10,5,3,2025-02-07,5349F,13CE7DE,2023-04-27,Nieznane,Kurtka zimowa,Odzież,699.99
+418,419,24,5,1,2025-02-01,2855A,6C24AAA,2024-04-22,Lodz,Kurtka zimowa,Odzież,699.99
+419,420,48,6,3,2025-01-16,Piotr,Zieliński,2025-08-09,Nieznane,Zegarek sportowy,Elektronika,899.99
+420,421,38,1,5,2024-09-10,A5DA8,9D8EAD8,2023-07-20,POZNAŃ,"Laptop Pro 15""",Elektronika,4999.99
+421,422,2,3,3,2024-08-15,9C128,542CB47,2023-04-18,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+422,423,23,5,3,2024-12-14,C2077,95F9175,2025-05-22,Nieznane,Kurtka zimowa,Odzież,699.99
+423,424,9,7,2,2024-12-21,98989,FFF4200,2022-10-18,Lodz,Czekolada mleczna,Spożywcze,6.99
+424,425,5,4,3,2025-04-14,1118E,CC955C1,2024-07-02,Gdańsk ,Buty biegowe X,Odzież,299.99
+425,426,20,6,5,2024-08-09,2DCBA,C58FC21,2024-03-03,Warszawa,Zegarek sportowy,Elektronika,899.99
+426,427,47,1,4,2024-09-08,Anna,Nowak,2024-05-01,Kraków,"Laptop Pro 15""",Elektronika,4999.99
+427,428,17,7,2,2024-08-17,42C9E,360A3A2,2023-09-24,Nieznane,Czekolada mleczna,Spożywcze,6.99
+428,429,43,2,4,2025-02-27,21035,DFFE2F2,2023-02-11,Nieznane,Smartphone Max,Elektronika,3199.99
+429,430,48,6,4,2025-01-26,Piotr,Zieliński,2025-08-09,Nieznane,Zegarek sportowy,Elektronika,899.99
+430,431,35,6,3,2025-04-27,83C92,C3081A0,2023-06-23,Gdańsk ,Zegarek sportowy,Elektronika,899.99
+431,432,20,2,2,2024-07-07,2DCBA,C58FC21,2024-03-03,Warszawa,Smartphone Max,Elektronika,3199.99
+432,433,45,7,2,2024-09-27,BBBA0,656E183,2023-02-22,Nieznane,Czekolada mleczna,Spożywcze,6.99
+433,434,25,4,1,2025-02-24,134F7,F7FD9E1,2023-08-19,Warszawa,Buty biegowe X,Odzież,299.99
+434,435,46,1,1,2024-07-18,Anna,Nowak,2026-01-01,Kraków,"Laptop Pro 15""",Elektronika,4999.99
+435,436,31,3,4,2024-12-27,F4F13,AC07F62,2023-09-12,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+436,437,43,6,1,2024-10-13,21035,DFFE2F2,2023-02-11,Nieznane,Zegarek sportowy,Elektronika,899.99
+437,438,20,3,3,2024-10-01,2DCBA,C58FC21,2024-03-03,Warszawa,Kawa ziarnista 1kg,Spożywcze,59.99
+438,439,21,2,1,2025-04-26,BBDAD,AF3472B,2024-05-28,Nieznane,Smartphone Max,Elektronika,3199.99
+439,440,39,7,3,2025-02-25,823A7,10B86FF,2023-10-31,Nieznane,Czekolada mleczna,Spożywcze,6.99
+440,441,18,5,1,2024-07-31,CFFB2,C26C8A4,2024-09-29,Nieznane,Kurtka zimowa,Odzież,699.99
+441,442,10,6,4,2025-02-26,5349F,13CE7DE,2023-04-27,Nieznane,Zegarek sportowy,Elektronika,899.99
+442,443,7,4,3,2024-09-15,DF953,6A7AAEF,2024-06-06,Warszawa,Buty biegowe X,Odzież,299.99
+443,444,34,4,3,2024-07-29,7BF45,19BBE96,2023-05-14,Warszawa,Buty biegowe X,Odzież,299.99
+444,445,1,4,3,2025-04-07,4A761,069E7ED,2022-12-15,Nieznane,Buty biegowe X,Odzież,299.99
+445,446,45,7,2,2025-02-11,BBBA0,656E183,2023-02-22,Nieznane,Czekolada mleczna,Spożywcze,6.99
+446,447,34,3,3,2025-02-17,7BF45,19BBE96,2023-05-14,Warszawa,Kawa ziarnista 1kg,Spożywcze,59.99
+447,448,14,7,5,2025-03-04,315CB,51915AE,2024-05-05,Lodz,Czekolada mleczna,Spożywcze,6.99
+448,449,13,5,2,2025-02-16,DF105,447D077,2023-12-06,Nieznane,Kurtka zimowa,Odzież,699.99
+449,450,25,2,1,2025-05-30,134F7,F7FD9E1,2023-08-19,Warszawa,Smartphone Max,Elektronika,3199.99
+450,451,44,7,1,2025-04-07,456D5,7D83D21,2023-02-24,Gdańsk ,Czekolada mleczna,Spożywcze,6.99
+451,452,43,5,1,2025-01-11,21035,DFFE2F2,2023-02-11,Nieznane,Kurtka zimowa,Odzież,699.99
+452,453,2,4,2,2025-02-10,9C128,542CB47,2023-04-18,Nieznane,Buty biegowe X,Odzież,299.99
+453,454,34,5,4,2024-10-09,7BF45,19BBE96,2023-05-14,Warszawa,Kurtka zimowa,Odzież,699.99
+454,455,1,5,3,2025-05-02,4A761,069E7ED,2022-12-15,Nieznane,Kurtka zimowa,Odzież,699.99
+455,456,22,6,3,2025-03-13,BB8E8,FD5CDA5,2023-05-24,Nieznane,Zegarek sportowy,Elektronika,899.99
+456,457,30,6,2,2025-05-02,93D01,4DCE31C,2024-11-06,Krakow,Zegarek sportowy,Elektronika,899.99
+457,458,6,4,5,2024-11-30,6D1B7,3967D2B,2023-09-27,Nieznane,Buty biegowe X,Odzież,299.99
+458,459,36,3,3,2024-11-08,67EDF,A5F741A,2023-04-21,Gdańsk ,Kawa ziarnista 1kg,Spożywcze,59.99
+459,460,5,6,1,2024-12-15,1118E,CC955C1,2024-07-02,Gdańsk ,Zegarek sportowy,Elektronika,899.99
+460,461,5,5,4,2025-04-25,1118E,CC955C1,2024-07-02,Gdańsk ,Kurtka zimowa,Odzież,699.99
+461,462,37,3,5,2024-12-11,AAB63,EC78CD3,2023-01-27,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+462,463,15,4,3,2025-02-20,02741,E178374,2024-10-30,Nieznane,Buty biegowe X,Odzież,299.99
+463,464,34,5,3,2024-09-14,7BF45,19BBE96,2023-05-14,Warszawa,Kurtka zimowa,Odzież,699.99
+464,465,29,2,5,2025-05-19,61394,7C0C33E,2023-06-19,Nieznane,Smartphone Max,Elektronika,3199.99
+465,466,12,7,4,2024-07-21,6A756,F691256,2023-09-18,Wrocław,Czekolada mleczna,Spożywcze,6.99
+466,467,44,7,4,2025-02-01,456D5,7D83D21,2023-02-24,Gdańsk ,Czekolada mleczna,Spożywcze,6.99
+467,468,38,2,5,2025-01-11,A5DA8,9D8EAD8,2023-07-20,POZNAŃ,Smartphone Max,Elektronika,3199.99
+468,469,42,3,4,2024-12-23,D201A,0CDE3C6,2022-12-31,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+469,470,43,7,2,2024-12-27,21035,DFFE2F2,2023-02-11,Nieznane,Czekolada mleczna,Spożywcze,6.99
+470,471,4,6,3,2024-11-24,3AEC1,4B236DB,2023-05-25,warszawa,Zegarek sportowy,Elektronika,899.99
+471,472,39,7,3,2024-11-19,823A7,10B86FF,2023-10-31,Nieznane,Czekolada mleczna,Spożywcze,6.99
+472,473,44,4,5,2025-06-22,456D5,7D83D21,2023-02-24,Gdańsk ,Buty biegowe X,Odzież,299.99
+473,474,17,7,1,2025-04-11,42C9E,360A3A2,2023-09-24,Nieznane,Czekolada mleczna,Spożywcze,6.99
+474,475,42,2,5,2025-05-24,D201A,0CDE3C6,2022-12-31,Nieznane,Smartphone Max,Elektronika,3199.99
+475,476,37,4,1,2024-07-20,AAB63,EC78CD3,2023-01-27,Nieznane,Buty biegowe X,Odzież,299.99
+476,477,22,4,4,2025-05-13,BB8E8,FD5CDA5,2023-05-24,Nieznane,Buty biegowe X,Odzież,299.99
+477,478,6,7,2,2024-09-20,6D1B7,3967D2B,2023-09-27,Nieznane,Czekolada mleczna,Spożywcze,6.99
+478,479,14,7,4,2024-11-10,315CB,51915AE,2024-05-05,Lodz,Czekolada mleczna,Spożywcze,6.99
+479,480,34,4,3,2024-10-23,7BF45,19BBE96,2023-05-14,Warszawa,Buty biegowe X,Odzież,299.99
+480,481,13,3,5,2025-03-30,DF105,447D077,2023-12-06,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+481,482,11,1,3,2024-08-02,9902E,854872D,2024-01-27,Warszawa,"Laptop Pro 15""",Elektronika,4999.99
+482,483,27,6,4,2025-04-05,A7FBC,F6F286C,2023-03-28,Kraków,Zegarek sportowy,Elektronika,899.99
+483,484,40,1,4,2024-07-29,384CB,EB6BD6A,2023-05-01,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+484,485,8,2,4,2025-06-28,295AB,E30A1E9,2024-02-03,Nieznane,Smartphone Max,Elektronika,3199.99
+485,486,5,5,1,2025-05-11,1118E,CC955C1,2024-07-02,Gdańsk ,Kurtka zimowa,Odzież,699.99
+486,487,9,5,2,2024-07-24,98989,FFF4200,2022-10-18,Lodz,Kurtka zimowa,Odzież,699.99
+487,488,36,2,4,2025-06-26,67EDF,A5F741A,2023-04-21,Gdańsk ,Smartphone Max,Elektronika,3199.99
+488,489,1,7,4,2025-06-16,4A761,069E7ED,2022-12-15,Nieznane,Czekolada mleczna,Spożywcze,6.99
+489,490,12,7,2,2024-09-14,6A756,F691256,2023-09-18,Wrocław,Czekolada mleczna,Spożywcze,6.99
+490,491,3,7,1,2025-04-06,71A41,68983FC,2024-09-26,Lodz,Czekolada mleczna,Spożywcze,6.99
+491,492,32,3,3,2024-08-07,A3B52,305D61E,2022-10-07,Krakow,Kawa ziarnista 1kg,Spożywcze,59.99
+492,493,8,1,3,2024-11-15,295AB,E30A1E9,2024-02-03,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+493,494,43,4,3,2024-11-21,21035,DFFE2F2,2023-02-11,Nieznane,Buty biegowe X,Odzież,299.99
+494,495,35,1,3,2024-09-25,83C92,C3081A0,2023-06-23,Gdańsk ,"Laptop Pro 15""",Elektronika,4999.99
+495,496,43,7,4,2025-06-24,21035,DFFE2F2,2023-02-11,Nieznane,Czekolada mleczna,Spożywcze,6.99
+496,497,48,6,3,2025-01-21,Piotr,Zieliński,2025-08-09,Nieznane,Zegarek sportowy,Elektronika,899.99
+497,498,37,5,4,2024-11-22,AAB63,EC78CD3,2023-01-27,Nieznane,Kurtka zimowa,Odzież,699.99
+498,499,14,6,2,2025-03-05,315CB,51915AE,2024-05-05,Lodz,Zegarek sportowy,Elektronika,899.99
+499,500,23,1,1,2025-04-18,C2077,95F9175,2025-05-22,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+500,501,15,1,5,2025-03-24,02741,E178374,2024-10-30,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+501,502,7,4,2,2025-04-27,DF953,6A7AAEF,2024-06-06,Warszawa,Buty biegowe X,Odzież,299.99
+502,503,23,7,1,2025-05-11,C2077,95F9175,2025-05-22,Nieznane,Czekolada mleczna,Spożywcze,6.99
+503,504,21,1,4,2025-06-28,BBDAD,AF3472B,2024-05-28,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+504,505,28,1,2,2024-07-24,B18B6,1751B33,2024-02-16,Krakow,"Laptop Pro 15""",Elektronika,4999.99
+505,506,34,4,3,2024-07-13,7BF45,19BBE96,2023-05-14,Warszawa,Buty biegowe X,Odzież,299.99
+506,507,28,3,2,2025-03-24,B18B6,1751B33,2024-02-16,Krakow,Kawa ziarnista 1kg,Spożywcze,59.99
+507,508,7,7,5,2025-02-25,DF953,6A7AAEF,2024-06-06,Warszawa,Czekolada mleczna,Spożywcze,6.99
+508,509,39,1,5,2025-04-23,823A7,10B86FF,2023-10-31,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+509,510,5,1,3,2024-07-15,1118E,CC955C1,2024-07-02,Gdańsk ,"Laptop Pro 15""",Elektronika,4999.99
+510,511,23,7,3,2025-03-02,C2077,95F9175,2025-05-22,Nieznane,Czekolada mleczna,Spożywcze,6.99
+511,512,16,4,4,2024-12-18,DD797,E1C5C15,2023-09-28,Nieznane,Buty biegowe X,Odzież,299.99
+512,513,13,1,3,2025-05-19,DF105,447D077,2023-12-06,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+513,514,14,6,3,2024-09-13,315CB,51915AE,2024-05-05,Lodz,Zegarek sportowy,Elektronika,899.99
+514,515,48,6,3,2025-06-11,Piotr,Zieliński,2025-08-09,Nieznane,Zegarek sportowy,Elektronika,899.99
+515,516,47,6,4,2024-11-15,Anna,Nowak,2024-05-01,Kraków,Zegarek sportowy,Elektronika,899.99
+516,517,40,2,5,2024-07-07,384CB,EB6BD6A,2023-05-01,Nieznane,Smartphone Max,Elektronika,3199.99
+517,518,28,1,1,2024-09-20,B18B6,1751B33,2024-02-16,Krakow,"Laptop Pro 15""",Elektronika,4999.99
+518,519,5,4,1,2025-01-21,1118E,CC955C1,2024-07-02,Gdańsk ,Buty biegowe X,Odzież,299.99
+519,520,18,3,3,2024-11-02,CFFB2,C26C8A4,2024-09-29,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+520,521,10,5,4,2024-10-16,5349F,13CE7DE,2023-04-27,Nieznane,Kurtka zimowa,Odzież,699.99
+521,522,10,5,4,2024-11-01,5349F,13CE7DE,2023-04-27,Nieznane,Kurtka zimowa,Odzież,699.99
+522,523,47,1,2,2025-01-02,Anna,Nowak,2024-05-01,Kraków,"Laptop Pro 15""",Elektronika,4999.99
+523,524,16,2,4,2025-05-25,DD797,E1C5C15,2023-09-28,Nieznane,Smartphone Max,Elektronika,3199.99
+524,525,20,2,2,2024-09-26,2DCBA,C58FC21,2024-03-03,Warszawa,Smartphone Max,Elektronika,3199.99
+525,526,36,4,5,2025-02-21,67EDF,A5F741A,2023-04-21,Gdańsk ,Buty biegowe X,Odzież,299.99
+526,527,44,3,5,2024-11-29,456D5,7D83D21,2023-02-24,Gdańsk ,Kawa ziarnista 1kg,Spożywcze,59.99
+527,528,32,2,1,2025-03-16,A3B52,305D61E,2022-10-07,Krakow,Smartphone Max,Elektronika,3199.99
+528,529,19,6,5,2025-01-19,1FBDD,C51B052,2022-11-22,Nieznane,Zegarek sportowy,Elektronika,899.99
+529,530,7,5,2,2025-01-19,DF953,6A7AAEF,2024-06-06,Warszawa,Kurtka zimowa,Odzież,699.99
+530,531,40,6,3,2024-09-19,384CB,EB6BD6A,2023-05-01,Nieznane,Zegarek sportowy,Elektronika,899.99
+531,532,43,4,5,2024-08-15,21035,DFFE2F2,2023-02-11,Nieznane,Buty biegowe X,Odzież,299.99
+532,533,2,2,5,2025-01-19,9C128,542CB47,2023-04-18,Nieznane,Smartphone Max,Elektronika,3199.99
+533,534,11,5,1,2025-01-05,9902E,854872D,2024-01-27,Warszawa,Kurtka zimowa,Odzież,699.99
+534,535,34,1,5,2025-06-11,7BF45,19BBE96,2023-05-14,Warszawa,"Laptop Pro 15""",Elektronika,4999.99
+535,536,24,3,2,2025-04-10,2855A,6C24AAA,2024-04-22,Lodz,Kawa ziarnista 1kg,Spożywcze,59.99
+536,537,45,1,3,2024-12-05,BBBA0,656E183,2023-02-22,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+537,538,35,6,3,2024-12-15,83C92,C3081A0,2023-06-23,Gdańsk ,Zegarek sportowy,Elektronika,899.99
+538,539,33,6,3,2024-12-18,A664C,4964EDE,2024-12-29,Warszawa,Zegarek sportowy,Elektronika,899.99
+539,540,30,2,5,2025-01-07,93D01,4DCE31C,2024-11-06,Krakow,Smartphone Max,Elektronika,3199.99
+540,541,44,6,3,2024-08-25,456D5,7D83D21,2023-02-24,Gdańsk ,Zegarek sportowy,Elektronika,899.99
+541,542,20,2,3,2024-12-19,2DCBA,C58FC21,2024-03-03,Warszawa,Smartphone Max,Elektronika,3199.99
+542,543,26,3,3,2025-04-14,EB778,6F93BB5,2024-04-01,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+543,544,46,1,1,2024-11-05,Anna,Nowak,2026-01-01,Kraków,"Laptop Pro 15""",Elektronika,4999.99
+544,545,33,4,3,2025-06-14,A664C,4964EDE,2024-12-29,Warszawa,Buty biegowe X,Odzież,299.99
+545,546,20,4,1,2025-02-03,2DCBA,C58FC21,2024-03-03,Warszawa,Buty biegowe X,Odzież,299.99
+546,547,6,3,2,2025-04-10,6D1B7,3967D2B,2023-09-27,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+547,548,26,6,1,2025-05-24,EB778,6F93BB5,2024-04-01,Nieznane,Zegarek sportowy,Elektronika,899.99
+548,549,12,5,5,2024-10-16,6A756,F691256,2023-09-18,Wrocław,Kurtka zimowa,Odzież,699.99
+549,550,1,2,2,2025-01-14,4A761,069E7ED,2022-12-15,Nieznane,Smartphone Max,Elektronika,3199.99
+550,551,5,4,1,2024-09-11,1118E,CC955C1,2024-07-02,Gdańsk ,Buty biegowe X,Odzież,299.99
+551,552,38,7,2,2024-10-24,A5DA8,9D8EAD8,2023-07-20,POZNAŃ,Czekolada mleczna,Spożywcze,6.99
+552,553,11,7,5,2025-03-15,9902E,854872D,2024-01-27,Warszawa,Czekolada mleczna,Spożywcze,6.99
+553,554,23,2,4,2024-12-16,C2077,95F9175,2025-05-22,Nieznane,Smartphone Max,Elektronika,3199.99
+554,555,10,7,5,2024-09-12,5349F,13CE7DE,2023-04-27,Nieznane,Czekolada mleczna,Spożywcze,6.99
+555,556,22,7,4,2025-03-19,BB8E8,FD5CDA5,2023-05-24,Nieznane,Czekolada mleczna,Spożywcze,6.99
+556,557,23,1,5,2024-10-22,C2077,95F9175,2025-05-22,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+557,558,31,5,1,2024-10-17,F4F13,AC07F62,2023-09-12,Nieznane,Kurtka zimowa,Odzież,699.99
+558,559,5,2,5,2025-03-01,1118E,CC955C1,2024-07-02,Gdańsk ,Smartphone Max,Elektronika,3199.99
+559,560,10,3,4,2024-07-12,5349F,13CE7DE,2023-04-27,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+560,561,46,3,4,2025-06-28,Anna,Nowak,2026-01-01,Kraków,Kawa ziarnista 1kg,Spożywcze,59.99
+561,562,44,1,3,2025-04-26,456D5,7D83D21,2023-02-24,Gdańsk ,"Laptop Pro 15""",Elektronika,4999.99
+562,563,18,5,3,2024-11-28,CFFB2,C26C8A4,2024-09-29,Nieznane,Kurtka zimowa,Odzież,699.99
+563,564,44,4,5,2024-07-28,456D5,7D83D21,2023-02-24,Gdańsk ,Buty biegowe X,Odzież,299.99
+564,565,47,3,2,2025-01-19,Anna,Nowak,2024-05-01,Kraków,Kawa ziarnista 1kg,Spożywcze,59.99
+565,566,42,3,4,2024-11-13,D201A,0CDE3C6,2022-12-31,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+566,567,28,4,2,2025-02-23,B18B6,1751B33,2024-02-16,Krakow,Buty biegowe X,Odzież,299.99
+567,568,46,1,4,2024-07-23,Anna,Nowak,2026-01-01,Kraków,"Laptop Pro 15""",Elektronika,4999.99
+568,569,32,3,3,2025-03-27,A3B52,305D61E,2022-10-07,Krakow,Kawa ziarnista 1kg,Spożywcze,59.99
+569,570,27,2,4,2025-04-27,A7FBC,F6F286C,2023-03-28,Kraków,Smartphone Max,Elektronika,3199.99
+570,571,22,1,4,2024-10-25,BB8E8,FD5CDA5,2023-05-24,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+571,572,25,6,3,2025-01-10,134F7,F7FD9E1,2023-08-19,Warszawa,Zegarek sportowy,Elektronika,899.99
+572,573,1,5,1,2024-12-21,4A761,069E7ED,2022-12-15,Nieznane,Kurtka zimowa,Odzież,699.99
+573,574,46,3,5,2024-07-14,Anna,Nowak,2026-01-01,Kraków,Kawa ziarnista 1kg,Spożywcze,59.99
+574,575,17,2,4,2025-02-19,42C9E,360A3A2,2023-09-24,Nieznane,Smartphone Max,Elektronika,3199.99
+575,576,23,5,5,2024-12-02,C2077,95F9175,2025-05-22,Nieznane,Kurtka zimowa,Odzież,699.99
+576,577,14,3,5,2025-05-29,315CB,51915AE,2024-05-05,Lodz,Kawa ziarnista 1kg,Spożywcze,59.99
+577,578,20,5,1,2024-07-02,2DCBA,C58FC21,2024-03-03,Warszawa,Kurtka zimowa,Odzież,699.99
+578,579,9,6,5,2025-04-08,98989,FFF4200,2022-10-18,Lodz,Zegarek sportowy,Elektronika,899.99
+579,580,33,1,3,2024-08-24,A664C,4964EDE,2024-12-29,Warszawa,"Laptop Pro 15""",Elektronika,4999.99
+580,581,29,5,2,2025-06-29,61394,7C0C33E,2023-06-19,Nieznane,Kurtka zimowa,Odzież,699.99
+581,582,17,7,1,2024-07-04,42C9E,360A3A2,2023-09-24,Nieznane,Czekolada mleczna,Spożywcze,6.99
+582,583,28,6,5,2024-07-14,B18B6,1751B33,2024-02-16,Krakow,Zegarek sportowy,Elektronika,899.99
+583,584,23,5,5,2024-10-02,C2077,95F9175,2025-05-22,Nieznane,Kurtka zimowa,Odzież,699.99
+584,585,40,5,3,2025-01-23,384CB,EB6BD6A,2023-05-01,Nieznane,Kurtka zimowa,Odzież,699.99
+585,586,39,6,5,2025-02-18,823A7,10B86FF,2023-10-31,Nieznane,Zegarek sportowy,Elektronika,899.99
+586,587,11,1,2,2024-12-20,9902E,854872D,2024-01-27,Warszawa,"Laptop Pro 15""",Elektronika,4999.99
+587,588,33,7,2,2025-04-05,A664C,4964EDE,2024-12-29,Warszawa,Czekolada mleczna,Spożywcze,6.99
+588,589,17,6,1,2025-03-01,42C9E,360A3A2,2023-09-24,Nieznane,Zegarek sportowy,Elektronika,899.99
+589,590,18,1,1,2024-12-29,CFFB2,C26C8A4,2024-09-29,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+590,591,7,3,3,2025-01-31,DF953,6A7AAEF,2024-06-06,Warszawa,Kawa ziarnista 1kg,Spożywcze,59.99
+591,592,32,4,5,2024-09-30,A3B52,305D61E,2022-10-07,Krakow,Buty biegowe X,Odzież,299.99
+592,593,12,5,1,2024-12-18,6A756,F691256,2023-09-18,Wrocław,Kurtka zimowa,Odzież,699.99
+593,594,47,4,3,2024-12-14,Anna,Nowak,2024-05-01,Kraków,Buty biegowe X,Odzież,299.99
+594,595,48,5,4,2024-10-01,Piotr,Zieliński,2025-08-09,Nieznane,Kurtka zimowa,Odzież,699.99
+595,596,28,1,1,2024-09-15,B18B6,1751B33,2024-02-16,Krakow,"Laptop Pro 15""",Elektronika,4999.99
+596,597,18,6,3,2025-03-30,CFFB2,C26C8A4,2024-09-29,Nieznane,Zegarek sportowy,Elektronika,899.99
+597,598,26,7,3,2025-04-22,EB778,6F93BB5,2024-04-01,Nieznane,Czekolada mleczna,Spożywcze,6.99
+598,599,37,1,2,2025-03-28,AAB63,EC78CD3,2023-01-27,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+599,600,47,1,2,2025-06-27,Anna,Nowak,2024-05-01,Kraków,"Laptop Pro 15""",Elektronika,4999.99
+600,601,12,6,1,2025-04-02,6A756,F691256,2023-09-18,Wrocław,Zegarek sportowy,Elektronika,899.99
+601,602,4,6,2,2025-05-16,3AEC1,4B236DB,2023-05-25,warszawa,Zegarek sportowy,Elektronika,899.99
+602,603,2,6,1,2025-03-21,9C128,542CB47,2023-04-18,Nieznane,Zegarek sportowy,Elektronika,899.99
+603,604,10,2,1,2025-05-13,5349F,13CE7DE,2023-04-27,Nieznane,Smartphone Max,Elektronika,3199.99
+604,605,26,7,5,2025-01-15,EB778,6F93BB5,2024-04-01,Nieznane,Czekolada mleczna,Spożywcze,6.99
+605,606,19,3,3,2024-10-02,1FBDD,C51B052,2022-11-22,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+606,607,28,5,2,2024-10-29,B18B6,1751B33,2024-02-16,Krakow,Kurtka zimowa,Odzież,699.99
+607,608,15,6,3,2025-06-05,02741,E178374,2024-10-30,Nieznane,Zegarek sportowy,Elektronika,899.99
+608,609,30,2,4,2024-12-25,93D01,4DCE31C,2024-11-06,Krakow,Smartphone Max,Elektronika,3199.99
+609,610,8,5,5,2025-02-10,295AB,E30A1E9,2024-02-03,Nieznane,Kurtka zimowa,Odzież,699.99
+610,611,43,2,4,2025-04-22,21035,DFFE2F2,2023-02-11,Nieznane,Smartphone Max,Elektronika,3199.99
+611,612,35,7,5,2025-05-02,83C92,C3081A0,2023-06-23,Gdańsk ,Czekolada mleczna,Spożywcze,6.99
+612,613,42,6,2,2025-05-24,D201A,0CDE3C6,2022-12-31,Nieznane,Zegarek sportowy,Elektronika,899.99
+613,614,28,5,1,2024-11-01,B18B6,1751B33,2024-02-16,Krakow,Kurtka zimowa,Odzież,699.99
+614,615,47,5,3,2025-01-05,Anna,Nowak,2024-05-01,Kraków,Kurtka zimowa,Odzież,699.99
+615,616,42,6,3,2024-12-22,D201A,0CDE3C6,2022-12-31,Nieznane,Zegarek sportowy,Elektronika,899.99
+616,617,27,4,2,2024-12-14,A7FBC,F6F286C,2023-03-28,Kraków,Buty biegowe X,Odzież,299.99
+617,618,12,3,4,2025-05-05,6A756,F691256,2023-09-18,Wrocław,Kawa ziarnista 1kg,Spożywcze,59.99
+618,619,6,7,3,2024-10-31,6D1B7,3967D2B,2023-09-27,Nieznane,Czekolada mleczna,Spożywcze,6.99
+619,620,6,4,5,2025-04-20,6D1B7,3967D2B,2023-09-27,Nieznane,Buty biegowe X,Odzież,299.99
+620,621,45,2,3,2025-05-03,BBBA0,656E183,2023-02-22,Nieznane,Smartphone Max,Elektronika,3199.99
+621,622,46,3,4,2024-07-12,Anna,Nowak,2026-01-01,Kraków,Kawa ziarnista 1kg,Spożywcze,59.99
+622,623,7,5,1,2025-03-23,DF953,6A7AAEF,2024-06-06,Warszawa,Kurtka zimowa,Odzież,699.99
+623,624,39,2,3,2025-05-11,823A7,10B86FF,2023-10-31,Nieznane,Smartphone Max,Elektronika,3199.99
+624,625,36,4,1,2024-11-26,67EDF,A5F741A,2023-04-21,Gdańsk ,Buty biegowe X,Odzież,299.99
+625,626,43,2,3,2025-01-22,21035,DFFE2F2,2023-02-11,Nieznane,Smartphone Max,Elektronika,3199.99
+626,627,22,5,1,2024-11-25,BB8E8,FD5CDA5,2023-05-24,Nieznane,Kurtka zimowa,Odzież,699.99
+627,628,36,1,2,2024-08-31,67EDF,A5F741A,2023-04-21,Gdańsk ,"Laptop Pro 15""",Elektronika,4999.99
+628,629,48,3,5,2024-10-15,Piotr,Zieliński,2025-08-09,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+629,630,15,5,3,2024-07-03,02741,E178374,2024-10-30,Nieznane,Kurtka zimowa,Odzież,699.99
+630,631,20,4,2,2024-08-30,2DCBA,C58FC21,2024-03-03,Warszawa,Buty biegowe X,Odzież,299.99
+631,632,1,1,1,2025-03-23,4A761,069E7ED,2022-12-15,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+632,633,14,6,3,2025-04-09,315CB,51915AE,2024-05-05,Lodz,Zegarek sportowy,Elektronika,899.99
+633,634,46,7,4,2025-04-09,Anna,Nowak,2026-01-01,Kraków,Czekolada mleczna,Spożywcze,6.99
+634,635,2,6,4,2024-08-11,9C128,542CB47,2023-04-18,Nieznane,Zegarek sportowy,Elektronika,899.99
+635,636,35,6,5,2025-02-15,83C92,C3081A0,2023-06-23,Gdańsk ,Zegarek sportowy,Elektronika,899.99
+636,637,29,7,1,2025-01-30,61394,7C0C33E,2023-06-19,Nieznane,Czekolada mleczna,Spożywcze,6.99
+637,638,21,4,4,2025-04-28,BBDAD,AF3472B,2024-05-28,Nieznane,Buty biegowe X,Odzież,299.99
+638,639,6,2,3,2025-03-25,6D1B7,3967D2B,2023-09-27,Nieznane,Smartphone Max,Elektronika,3199.99
+639,640,16,2,5,2025-01-09,DD797,E1C5C15,2023-09-28,Nieznane,Smartphone Max,Elektronika,3199.99
+640,641,18,2,3,2024-07-13,CFFB2,C26C8A4,2024-09-29,Nieznane,Smartphone Max,Elektronika,3199.99
+641,642,18,4,1,2024-12-30,CFFB2,C26C8A4,2024-09-29,Nieznane,Buty biegowe X,Odzież,299.99
+642,643,37,7,1,2025-02-08,AAB63,EC78CD3,2023-01-27,Nieznane,Czekolada mleczna,Spożywcze,6.99
+643,644,32,1,5,2024-11-30,A3B52,305D61E,2022-10-07,Krakow,"Laptop Pro 15""",Elektronika,4999.99
+644,645,23,7,3,2024-10-06,C2077,95F9175,2025-05-22,Nieznane,Czekolada mleczna,Spożywcze,6.99
+645,646,33,1,4,2024-12-31,A664C,4964EDE,2024-12-29,Warszawa,"Laptop Pro 15""",Elektronika,4999.99
+646,647,11,5,3,2024-08-19,9902E,854872D,2024-01-27,Warszawa,Kurtka zimowa,Odzież,699.99
+647,648,40,7,4,2025-01-07,384CB,EB6BD6A,2023-05-01,Nieznane,Czekolada mleczna,Spożywcze,6.99
+648,649,6,7,4,2025-03-22,6D1B7,3967D2B,2023-09-27,Nieznane,Czekolada mleczna,Spożywcze,6.99
+649,650,7,2,2,2025-01-18,DF953,6A7AAEF,2024-06-06,Warszawa,Smartphone Max,Elektronika,3199.99
+650,651,13,5,1,2024-09-07,DF105,447D077,2023-12-06,Nieznane,Kurtka zimowa,Odzież,699.99
+651,652,24,3,5,2024-10-20,2855A,6C24AAA,2024-04-22,Lodz,Kawa ziarnista 1kg,Spożywcze,59.99
+652,653,14,2,3,2024-12-26,315CB,51915AE,2024-05-05,Lodz,Smartphone Max,Elektronika,3199.99
+653,654,16,4,3,2025-04-22,DD797,E1C5C15,2023-09-28,Nieznane,Buty biegowe X,Odzież,299.99
+654,655,15,7,2,2024-12-12,02741,E178374,2024-10-30,Nieznane,Czekolada mleczna,Spożywcze,6.99
+655,656,43,6,2,2025-03-30,21035,DFFE2F2,2023-02-11,Nieznane,Zegarek sportowy,Elektronika,899.99
+656,657,12,3,3,2025-01-27,6A756,F691256,2023-09-18,Wrocław,Kawa ziarnista 1kg,Spożywcze,59.99
+657,658,20,3,3,2024-08-05,2DCBA,C58FC21,2024-03-03,Warszawa,Kawa ziarnista 1kg,Spożywcze,59.99
+658,659,16,4,3,2024-08-21,DD797,E1C5C15,2023-09-28,Nieznane,Buty biegowe X,Odzież,299.99
+659,660,5,2,3,2024-08-04,1118E,CC955C1,2024-07-02,Gdańsk ,Smartphone Max,Elektronika,3199.99
+660,661,9,2,4,2025-06-19,98989,FFF4200,2022-10-18,Lodz,Smartphone Max,Elektronika,3199.99
+661,662,20,3,5,2024-08-10,2DCBA,C58FC21,2024-03-03,Warszawa,Kawa ziarnista 1kg,Spożywcze,59.99
+662,663,27,2,5,2024-11-27,A7FBC,F6F286C,2023-03-28,Kraków,Smartphone Max,Elektronika,3199.99
+663,664,40,3,3,2024-08-25,384CB,EB6BD6A,2023-05-01,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+664,665,43,1,4,2025-02-09,21035,DFFE2F2,2023-02-11,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+665,666,25,4,4,2024-09-06,134F7,F7FD9E1,2023-08-19,Warszawa,Buty biegowe X,Odzież,299.99
+666,667,13,1,4,2024-12-06,DF105,447D077,2023-12-06,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+667,668,23,5,5,2025-04-29,C2077,95F9175,2025-05-22,Nieznane,Kurtka zimowa,Odzież,699.99
+668,669,1,3,2,2025-02-08,4A761,069E7ED,2022-12-15,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+669,670,18,6,4,2024-10-09,CFFB2,C26C8A4,2024-09-29,Nieznane,Zegarek sportowy,Elektronika,899.99
+670,671,10,7,4,2025-04-07,5349F,13CE7DE,2023-04-27,Nieznane,Czekolada mleczna,Spożywcze,6.99
+671,672,47,2,5,2025-04-26,Anna,Nowak,2024-05-01,Kraków,Smartphone Max,Elektronika,3199.99
+672,673,10,1,4,2025-03-26,5349F,13CE7DE,2023-04-27,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+673,674,25,6,2,2025-03-14,134F7,F7FD9E1,2023-08-19,Warszawa,Zegarek sportowy,Elektronika,899.99
+674,675,25,3,4,2024-12-03,134F7,F7FD9E1,2023-08-19,Warszawa,Kawa ziarnista 1kg,Spożywcze,59.99
+675,676,36,4,5,2025-01-08,67EDF,A5F741A,2023-04-21,Gdańsk ,Buty biegowe X,Odzież,299.99
+676,677,20,1,1,2024-09-06,2DCBA,C58FC21,2024-03-03,Warszawa,"Laptop Pro 15""",Elektronika,4999.99
+677,678,8,7,5,2025-02-11,295AB,E30A1E9,2024-02-03,Nieznane,Czekolada mleczna,Spożywcze,6.99
+678,679,20,3,2,2025-01-28,2DCBA,C58FC21,2024-03-03,Warszawa,Kawa ziarnista 1kg,Spożywcze,59.99
+679,680,21,2,5,2025-01-29,BBDAD,AF3472B,2024-05-28,Nieznane,Smartphone Max,Elektronika,3199.99
+680,681,39,2,5,2024-07-10,823A7,10B86FF,2023-10-31,Nieznane,Smartphone Max,Elektronika,3199.99
+681,682,12,7,1,2025-01-12,6A756,F691256,2023-09-18,Wrocław,Czekolada mleczna,Spożywcze,6.99
+682,683,27,5,2,2025-04-15,A7FBC,F6F286C,2023-03-28,Kraków,Kurtka zimowa,Odzież,699.99
+683,684,21,7,3,2025-02-03,BBDAD,AF3472B,2024-05-28,Nieznane,Czekolada mleczna,Spożywcze,6.99
+684,685,15,7,5,2024-12-13,02741,E178374,2024-10-30,Nieznane,Czekolada mleczna,Spożywcze,6.99
+685,686,22,5,5,2025-01-25,BB8E8,FD5CDA5,2023-05-24,Nieznane,Kurtka zimowa,Odzież,699.99
+686,687,16,3,3,2024-11-24,DD797,E1C5C15,2023-09-28,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+687,688,9,6,1,2024-10-24,98989,FFF4200,2022-10-18,Lodz,Zegarek sportowy,Elektronika,899.99
+688,689,41,3,1,2025-03-12,E4459,938F626,2023-07-20,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+689,690,11,1,3,2024-12-22,9902E,854872D,2024-01-27,Warszawa,"Laptop Pro 15""",Elektronika,4999.99
+690,691,44,5,5,2024-12-06,456D5,7D83D21,2023-02-24,Gdańsk ,Kurtka zimowa,Odzież,699.99
+691,692,24,3,4,2025-05-16,2855A,6C24AAA,2024-04-22,Lodz,Kawa ziarnista 1kg,Spożywcze,59.99
+692,693,33,5,4,2024-07-18,A664C,4964EDE,2024-12-29,Warszawa,Kurtka zimowa,Odzież,699.99
+693,694,7,5,1,2025-01-27,DF953,6A7AAEF,2024-06-06,Warszawa,Kurtka zimowa,Odzież,699.99
+694,695,27,7,2,2025-03-07,A7FBC,F6F286C,2023-03-28,Kraków,Czekolada mleczna,Spożywcze,6.99
+695,696,36,6,5,2024-09-22,67EDF,A5F741A,2023-04-21,Gdańsk ,Zegarek sportowy,Elektronika,899.99
+696,697,11,6,3,2024-07-22,9902E,854872D,2024-01-27,Warszawa,Zegarek sportowy,Elektronika,899.99
+697,698,11,1,3,2024-09-21,9902E,854872D,2024-01-27,Warszawa,"Laptop Pro 15""",Elektronika,4999.99
+698,699,11,4,2,2024-09-11,9902E,854872D,2024-01-27,Warszawa,Buty biegowe X,Odzież,299.99
+699,700,5,7,5,2024-11-01,1118E,CC955C1,2024-07-02,Gdańsk ,Czekolada mleczna,Spożywcze,6.99
+700,701,34,1,1,2024-10-02,7BF45,19BBE96,2023-05-14,Warszawa,"Laptop Pro 15""",Elektronika,4999.99
+701,702,34,4,1,2025-01-19,7BF45,19BBE96,2023-05-14,Warszawa,Buty biegowe X,Odzież,299.99
+702,703,33,2,1,2025-01-31,A664C,4964EDE,2024-12-29,Warszawa,Smartphone Max,Elektronika,3199.99
+703,704,12,6,3,2024-10-17,6A756,F691256,2023-09-18,Wrocław,Zegarek sportowy,Elektronika,899.99
+704,705,45,3,4,2025-05-06,BBBA0,656E183,2023-02-22,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+705,706,5,7,2,2024-07-26,1118E,CC955C1,2024-07-02,Gdańsk ,Czekolada mleczna,Spożywcze,6.99
+706,707,36,2,5,2025-06-29,67EDF,A5F741A,2023-04-21,Gdańsk ,Smartphone Max,Elektronika,3199.99
+707,708,8,3,5,2024-12-18,295AB,E30A1E9,2024-02-03,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+708,709,48,1,1,2024-12-17,Piotr,Zieliński,2025-08-09,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+709,710,48,5,2,2024-11-18,Piotr,Zieliński,2025-08-09,Nieznane,Kurtka zimowa,Odzież,699.99
+710,711,19,2,2,2025-06-14,1FBDD,C51B052,2022-11-22,Nieznane,Smartphone Max,Elektronika,3199.99
+711,712,9,6,5,2025-06-11,98989,FFF4200,2022-10-18,Lodz,Zegarek sportowy,Elektronika,899.99
+712,713,46,4,3,2025-03-07,Anna,Nowak,2026-01-01,Kraków,Buty biegowe X,Odzież,299.99
+713,714,40,4,1,2024-07-11,384CB,EB6BD6A,2023-05-01,Nieznane,Buty biegowe X,Odzież,299.99
+714,715,41,1,4,2025-06-29,E4459,938F626,2023-07-20,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+715,716,5,2,4,2024-10-07,1118E,CC955C1,2024-07-02,Gdańsk ,Smartphone Max,Elektronika,3199.99
+716,717,34,6,2,2024-12-04,7BF45,19BBE96,2023-05-14,Warszawa,Zegarek sportowy,Elektronika,899.99
+717,718,5,4,3,2025-06-10,1118E,CC955C1,2024-07-02,Gdańsk ,Buty biegowe X,Odzież,299.99
+718,719,3,2,4,2024-09-11,71A41,68983FC,2024-09-26,Lodz,Smartphone Max,Elektronika,3199.99
+719,720,44,5,1,2024-09-28,456D5,7D83D21,2023-02-24,Gdańsk ,Kurtka zimowa,Odzież,699.99
+720,721,4,6,1,2024-08-01,3AEC1,4B236DB,2023-05-25,warszawa,Zegarek sportowy,Elektronika,899.99
+721,722,35,6,4,2024-10-14,83C92,C3081A0,2023-06-23,Gdańsk ,Zegarek sportowy,Elektronika,899.99
+722,723,24,2,4,2025-03-06,2855A,6C24AAA,2024-04-22,Lodz,Smartphone Max,Elektronika,3199.99
+723,724,33,6,2,2025-03-16,A664C,4964EDE,2024-12-29,Warszawa,Zegarek sportowy,Elektronika,899.99
+724,725,41,7,2,2025-04-03,E4459,938F626,2023-07-20,Nieznane,Czekolada mleczna,Spożywcze,6.99
+725,726,19,6,2,2025-04-03,1FBDD,C51B052,2022-11-22,Nieznane,Zegarek sportowy,Elektronika,899.99
+726,727,8,2,2,2025-03-16,295AB,E30A1E9,2024-02-03,Nieznane,Smartphone Max,Elektronika,3199.99
+727,728,21,1,5,2024-10-26,BBDAD,AF3472B,2024-05-28,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+728,729,31,4,1,2024-11-04,F4F13,AC07F62,2023-09-12,Nieznane,Buty biegowe X,Odzież,299.99
+729,730,5,2,3,2025-05-01,1118E,CC955C1,2024-07-02,Gdańsk ,Smartphone Max,Elektronika,3199.99
+730,731,2,7,2,2024-12-25,9C128,542CB47,2023-04-18,Nieznane,Czekolada mleczna,Spożywcze,6.99
+731,732,27,4,5,2025-02-01,A7FBC,F6F286C,2023-03-28,Kraków,Buty biegowe X,Odzież,299.99
+732,733,3,2,3,2025-01-14,71A41,68983FC,2024-09-26,Lodz,Smartphone Max,Elektronika,3199.99
+733,734,16,5,1,2025-03-11,DD797,E1C5C15,2023-09-28,Nieznane,Kurtka zimowa,Odzież,699.99
+734,735,43,6,3,2025-05-06,21035,DFFE2F2,2023-02-11,Nieznane,Zegarek sportowy,Elektronika,899.99
+735,736,5,2,4,2024-09-02,1118E,CC955C1,2024-07-02,Gdańsk ,Smartphone Max,Elektronika,3199.99
+736,737,48,7,1,2025-04-08,Piotr,Zieliński,2025-08-09,Nieznane,Czekolada mleczna,Spożywcze,6.99
+737,738,41,6,5,2024-11-02,E4459,938F626,2023-07-20,Nieznane,Zegarek sportowy,Elektronika,899.99
+738,739,48,2,5,2025-01-09,Piotr,Zieliński,2025-08-09,Nieznane,Smartphone Max,Elektronika,3199.99
+739,740,9,3,4,2024-09-28,98989,FFF4200,2022-10-18,Lodz,Kawa ziarnista 1kg,Spożywcze,59.99
+740,741,21,3,3,2025-03-03,BBDAD,AF3472B,2024-05-28,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+741,742,42,1,5,2025-03-14,D201A,0CDE3C6,2022-12-31,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+742,743,21,6,5,2024-07-13,BBDAD,AF3472B,2024-05-28,Nieznane,Zegarek sportowy,Elektronika,899.99
+743,744,1,4,4,2024-10-05,4A761,069E7ED,2022-12-15,Nieznane,Buty biegowe X,Odzież,299.99
+744,745,43,2,1,2024-12-06,21035,DFFE2F2,2023-02-11,Nieznane,Smartphone Max,Elektronika,3199.99
+745,746,8,6,2,2024-12-29,295AB,E30A1E9,2024-02-03,Nieznane,Zegarek sportowy,Elektronika,899.99
+746,747,27,3,2,2025-02-02,A7FBC,F6F286C,2023-03-28,Kraków,Kawa ziarnista 1kg,Spożywcze,59.99
+747,748,7,2,5,2025-05-17,DF953,6A7AAEF,2024-06-06,Warszawa,Smartphone Max,Elektronika,3199.99
+748,749,16,3,3,2025-05-22,DD797,E1C5C15,2023-09-28,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+749,750,45,5,4,2024-08-18,BBBA0,656E183,2023-02-22,Nieznane,Kurtka zimowa,Odzież,699.99
+750,751,22,3,5,2025-02-10,BB8E8,FD5CDA5,2023-05-24,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+751,752,36,5,3,2025-06-24,67EDF,A5F741A,2023-04-21,Gdańsk ,Kurtka zimowa,Odzież,699.99
+752,753,1,6,1,2024-11-16,4A761,069E7ED,2022-12-15,Nieznane,Zegarek sportowy,Elektronika,899.99
+753,754,29,1,2,2025-05-07,61394,7C0C33E,2023-06-19,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+754,755,30,5,3,2024-07-25,93D01,4DCE31C,2024-11-06,Krakow,Kurtka zimowa,Odzież,699.99
+755,756,1,6,3,2024-10-16,4A761,069E7ED,2022-12-15,Nieznane,Zegarek sportowy,Elektronika,899.99
+756,757,44,2,4,2025-06-07,456D5,7D83D21,2023-02-24,Gdańsk ,Smartphone Max,Elektronika,3199.99
+757,758,39,4,1,2024-09-20,823A7,10B86FF,2023-10-31,Nieznane,Buty biegowe X,Odzież,299.99
+758,759,37,5,4,2024-08-29,AAB63,EC78CD3,2023-01-27,Nieznane,Kurtka zimowa,Odzież,699.99
+759,760,6,2,4,2025-03-26,6D1B7,3967D2B,2023-09-27,Nieznane,Smartphone Max,Elektronika,3199.99
+760,761,18,6,2,2024-07-28,CFFB2,C26C8A4,2024-09-29,Nieznane,Zegarek sportowy,Elektronika,899.99
+761,762,26,4,3,2025-05-26,EB778,6F93BB5,2024-04-01,Nieznane,Buty biegowe X,Odzież,299.99
+762,763,42,7,4,2025-04-19,D201A,0CDE3C6,2022-12-31,Nieznane,Czekolada mleczna,Spożywcze,6.99
+763,764,17,2,4,2025-01-26,42C9E,360A3A2,2023-09-24,Nieznane,Smartphone Max,Elektronika,3199.99
+764,765,22,4,3,2024-08-29,BB8E8,FD5CDA5,2023-05-24,Nieznane,Buty biegowe X,Odzież,299.99
+765,766,31,6,4,2024-11-29,F4F13,AC07F62,2023-09-12,Nieznane,Zegarek sportowy,Elektronika,899.99
+766,767,35,2,5,2024-12-17,83C92,C3081A0,2023-06-23,Gdańsk ,Smartphone Max,Elektronika,3199.99
+767,768,36,4,3,2025-05-10,67EDF,A5F741A,2023-04-21,Gdańsk ,Buty biegowe X,Odzież,299.99
+768,769,26,4,2,2024-07-18,EB778,6F93BB5,2024-04-01,Nieznane,Buty biegowe X,Odzież,299.99
+769,770,38,1,3,2025-06-03,A5DA8,9D8EAD8,2023-07-20,POZNAŃ,"Laptop Pro 15""",Elektronika,4999.99
+770,771,25,7,1,2024-12-25,134F7,F7FD9E1,2023-08-19,Warszawa,Czekolada mleczna,Spożywcze,6.99
+771,772,17,3,4,2024-08-05,42C9E,360A3A2,2023-09-24,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+772,773,43,3,4,2024-11-27,21035,DFFE2F2,2023-02-11,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+773,774,10,1,1,2024-11-15,5349F,13CE7DE,2023-04-27,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+774,775,45,2,4,2024-09-30,BBBA0,656E183,2023-02-22,Nieznane,Smartphone Max,Elektronika,3199.99
+775,776,26,4,4,2025-03-06,EB778,6F93BB5,2024-04-01,Nieznane,Buty biegowe X,Odzież,299.99
+776,777,13,5,3,2024-07-23,DF105,447D077,2023-12-06,Nieznane,Kurtka zimowa,Odzież,699.99
+777,778,24,7,2,2024-11-27,2855A,6C24AAA,2024-04-22,Lodz,Czekolada mleczna,Spożywcze,6.99
+778,779,11,2,1,2025-05-11,9902E,854872D,2024-01-27,Warszawa,Smartphone Max,Elektronika,3199.99
+779,780,25,6,2,2025-06-01,134F7,F7FD9E1,2023-08-19,Warszawa,Zegarek sportowy,Elektronika,899.99
+780,781,2,3,1,2024-07-26,9C128,542CB47,2023-04-18,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+781,782,21,2,1,2025-02-01,BBDAD,AF3472B,2024-05-28,Nieznane,Smartphone Max,Elektronika,3199.99
+782,783,28,1,3,2025-06-08,B18B6,1751B33,2024-02-16,Krakow,"Laptop Pro 15""",Elektronika,4999.99
+783,784,21,3,1,2025-02-11,BBDAD,AF3472B,2024-05-28,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+784,785,37,5,2,2025-06-22,AAB63,EC78CD3,2023-01-27,Nieznane,Kurtka zimowa,Odzież,699.99
+785,786,48,5,1,2024-09-02,Piotr,Zieliński,2025-08-09,Nieznane,Kurtka zimowa,Odzież,699.99
+786,787,40,3,4,2024-09-14,384CB,EB6BD6A,2023-05-01,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+787,788,18,7,3,2024-10-19,CFFB2,C26C8A4,2024-09-29,Nieznane,Czekolada mleczna,Spożywcze,6.99
+788,789,24,3,1,2025-01-30,2855A,6C24AAA,2024-04-22,Lodz,Kawa ziarnista 1kg,Spożywcze,59.99
+789,790,39,2,2,2025-02-28,823A7,10B86FF,2023-10-31,Nieznane,Smartphone Max,Elektronika,3199.99
+790,791,29,4,1,2025-01-03,61394,7C0C33E,2023-06-19,Nieznane,Buty biegowe X,Odzież,299.99
+791,792,5,7,3,2025-03-09,1118E,CC955C1,2024-07-02,Gdańsk ,Czekolada mleczna,Spożywcze,6.99
+792,793,2,5,5,2024-07-12,9C128,542CB47,2023-04-18,Nieznane,Kurtka zimowa,Odzież,699.99
+793,794,21,6,4,2025-06-25,BBDAD,AF3472B,2024-05-28,Nieznane,Zegarek sportowy,Elektronika,899.99
+794,795,9,4,4,2025-03-20,98989,FFF4200,2022-10-18,Lodz,Buty biegowe X,Odzież,299.99
+795,796,8,4,1,2024-09-07,295AB,E30A1E9,2024-02-03,Nieznane,Buty biegowe X,Odzież,299.99
+796,797,42,5,1,2025-06-12,D201A,0CDE3C6,2022-12-31,Nieznane,Kurtka zimowa,Odzież,699.99
+797,798,44,3,5,2025-01-03,456D5,7D83D21,2023-02-24,Gdańsk ,Kawa ziarnista 1kg,Spożywcze,59.99
+798,799,41,3,3,2024-12-29,E4459,938F626,2023-07-20,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+799,800,10,5,4,2024-11-14,5349F,13CE7DE,2023-04-27,Nieznane,Kurtka zimowa,Odzież,699.99
+800,801,18,1,5,2024-09-10,CFFB2,C26C8A4,2024-09-29,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+801,802,26,1,3,2025-06-01,EB778,6F93BB5,2024-04-01,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+802,803,12,2,1,2024-12-26,6A756,F691256,2023-09-18,Wrocław,Smartphone Max,Elektronika,3199.99
+803,804,38,6,5,2024-08-07,A5DA8,9D8EAD8,2023-07-20,POZNAŃ,Zegarek sportowy,Elektronika,899.99
+804,805,3,5,4,2025-06-11,71A41,68983FC,2024-09-26,Lodz,Kurtka zimowa,Odzież,699.99
+805,806,27,3,4,2025-04-17,A7FBC,F6F286C,2023-03-28,Kraków,Kawa ziarnista 1kg,Spożywcze,59.99
+806,807,27,1,1,2024-08-15,A7FBC,F6F286C,2023-03-28,Kraków,"Laptop Pro 15""",Elektronika,4999.99
+807,808,38,4,2,2025-01-16,A5DA8,9D8EAD8,2023-07-20,POZNAŃ,Buty biegowe X,Odzież,299.99
+808,809,48,1,5,2024-09-03,Piotr,Zieliński,2025-08-09,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+809,810,3,1,3,2025-02-09,71A41,68983FC,2024-09-26,Lodz,"Laptop Pro 15""",Elektronika,4999.99
+810,811,27,3,3,2024-09-02,A7FBC,F6F286C,2023-03-28,Kraków,Kawa ziarnista 1kg,Spożywcze,59.99
+811,812,5,1,5,2025-03-16,1118E,CC955C1,2024-07-02,Gdańsk ,"Laptop Pro 15""",Elektronika,4999.99
+812,813,38,5,3,2024-10-31,A5DA8,9D8EAD8,2023-07-20,POZNAŃ,Kurtka zimowa,Odzież,699.99
+813,814,40,5,5,2024-09-22,384CB,EB6BD6A,2023-05-01,Nieznane,Kurtka zimowa,Odzież,699.99
+814,815,13,2,1,2025-06-05,DF105,447D077,2023-12-06,Nieznane,Smartphone Max,Elektronika,3199.99
+815,816,29,1,3,2024-07-04,61394,7C0C33E,2023-06-19,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+816,817,5,6,2,2024-11-07,1118E,CC955C1,2024-07-02,Gdańsk ,Zegarek sportowy,Elektronika,899.99
+817,818,36,1,5,2024-12-30,67EDF,A5F741A,2023-04-21,Gdańsk ,"Laptop Pro 15""",Elektronika,4999.99
+818,819,20,5,1,2024-07-24,2DCBA,C58FC21,2024-03-03,Warszawa,Kurtka zimowa,Odzież,699.99
+819,820,38,6,1,2025-06-19,A5DA8,9D8EAD8,2023-07-20,POZNAŃ,Zegarek sportowy,Elektronika,899.99
+820,821,27,3,1,2025-05-09,A7FBC,F6F286C,2023-03-28,Kraków,Kawa ziarnista 1kg,Spożywcze,59.99
+821,822,18,5,5,2024-07-09,CFFB2,C26C8A4,2024-09-29,Nieznane,Kurtka zimowa,Odzież,699.99
+822,823,17,1,1,2025-06-17,42C9E,360A3A2,2023-09-24,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+823,824,5,5,1,2025-05-19,1118E,CC955C1,2024-07-02,Gdańsk ,Kurtka zimowa,Odzież,699.99
+824,825,22,7,4,2025-03-20,BB8E8,FD5CDA5,2023-05-24,Nieznane,Czekolada mleczna,Spożywcze,6.99
+825,826,39,5,4,2025-05-23,823A7,10B86FF,2023-10-31,Nieznane,Kurtka zimowa,Odzież,699.99
+826,827,10,2,4,2024-07-13,5349F,13CE7DE,2023-04-27,Nieznane,Smartphone Max,Elektronika,3199.99
+827,828,7,7,5,2025-03-08,DF953,6A7AAEF,2024-06-06,Warszawa,Czekolada mleczna,Spożywcze,6.99
+828,829,34,1,5,2025-03-31,7BF45,19BBE96,2023-05-14,Warszawa,"Laptop Pro 15""",Elektronika,4999.99
+829,830,40,2,5,2025-06-28,384CB,EB6BD6A,2023-05-01,Nieznane,Smartphone Max,Elektronika,3199.99
+830,831,30,5,2,2025-03-31,93D01,4DCE31C,2024-11-06,Krakow,Kurtka zimowa,Odzież,699.99
+831,832,9,6,1,2024-09-27,98989,FFF4200,2022-10-18,Lodz,Zegarek sportowy,Elektronika,899.99
+832,833,36,1,2,2025-01-27,67EDF,A5F741A,2023-04-21,Gdańsk ,"Laptop Pro 15""",Elektronika,4999.99
+833,834,12,4,3,2025-06-13,6A756,F691256,2023-09-18,Wrocław,Buty biegowe X,Odzież,299.99
+834,835,9,3,2,2024-07-28,98989,FFF4200,2022-10-18,Lodz,Kawa ziarnista 1kg,Spożywcze,59.99
+835,836,4,2,2,2024-09-01,3AEC1,4B236DB,2023-05-25,warszawa,Smartphone Max,Elektronika,3199.99
+836,837,8,2,4,2025-04-09,295AB,E30A1E9,2024-02-03,Nieznane,Smartphone Max,Elektronika,3199.99
+837,838,16,7,1,2025-01-08,DD797,E1C5C15,2023-09-28,Nieznane,Czekolada mleczna,Spożywcze,6.99
+838,839,14,7,5,2024-10-29,315CB,51915AE,2024-05-05,Lodz,Czekolada mleczna,Spożywcze,6.99
+839,840,10,4,1,2024-08-19,5349F,13CE7DE,2023-04-27,Nieznane,Buty biegowe X,Odzież,299.99
+840,841,32,4,2,2024-09-19,A3B52,305D61E,2022-10-07,Krakow,Buty biegowe X,Odzież,299.99
+841,842,48,4,1,2024-07-24,Piotr,Zieliński,2025-08-09,Nieznane,Buty biegowe X,Odzież,299.99
+842,843,48,6,2,2024-07-12,Piotr,Zieliński,2025-08-09,Nieznane,Zegarek sportowy,Elektronika,899.99
+843,844,6,4,4,2024-08-27,6D1B7,3967D2B,2023-09-27,Nieznane,Buty biegowe X,Odzież,299.99
+844,845,10,4,1,2025-02-27,5349F,13CE7DE,2023-04-27,Nieznane,Buty biegowe X,Odzież,299.99
+845,846,33,4,4,2024-08-15,A664C,4964EDE,2024-12-29,Warszawa,Buty biegowe X,Odzież,299.99
+846,847,26,2,1,2024-10-14,EB778,6F93BB5,2024-04-01,Nieznane,Smartphone Max,Elektronika,3199.99
+847,848,25,3,2,2024-10-11,134F7,F7FD9E1,2023-08-19,Warszawa,Kawa ziarnista 1kg,Spożywcze,59.99
+848,849,11,7,1,2024-12-09,9902E,854872D,2024-01-27,Warszawa,Czekolada mleczna,Spożywcze,6.99
+849,850,16,2,3,2024-08-05,DD797,E1C5C15,2023-09-28,Nieznane,Smartphone Max,Elektronika,3199.99
+850,851,40,6,1,2025-04-01,384CB,EB6BD6A,2023-05-01,Nieznane,Zegarek sportowy,Elektronika,899.99
+851,852,14,2,3,2024-09-03,315CB,51915AE,2024-05-05,Lodz,Smartphone Max,Elektronika,3199.99
+852,853,32,7,4,2024-10-11,A3B52,305D61E,2022-10-07,Krakow,Czekolada mleczna,Spożywcze,6.99
+853,854,20,1,2,2025-03-16,2DCBA,C58FC21,2024-03-03,Warszawa,"Laptop Pro 15""",Elektronika,4999.99
+854,855,21,1,2,2024-07-17,BBDAD,AF3472B,2024-05-28,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+855,856,34,4,4,2024-12-04,7BF45,19BBE96,2023-05-14,Warszawa,Buty biegowe X,Odzież,299.99
+856,857,39,1,5,2025-01-21,823A7,10B86FF,2023-10-31,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+857,858,27,6,2,2024-11-27,A7FBC,F6F286C,2023-03-28,Kraków,Zegarek sportowy,Elektronika,899.99
+858,859,15,4,2,2025-01-11,02741,E178374,2024-10-30,Nieznane,Buty biegowe X,Odzież,299.99
+859,860,46,5,2,2025-01-23,Anna,Nowak,2026-01-01,Kraków,Kurtka zimowa,Odzież,699.99
+860,861,4,3,3,2025-05-19,3AEC1,4B236DB,2023-05-25,warszawa,Kawa ziarnista 1kg,Spożywcze,59.99
+861,862,12,4,1,2025-04-18,6A756,F691256,2023-09-18,Wrocław,Buty biegowe X,Odzież,299.99
+862,863,31,1,2,2024-12-22,F4F13,AC07F62,2023-09-12,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+863,864,47,2,3,2025-01-25,Anna,Nowak,2024-05-01,Kraków,Smartphone Max,Elektronika,3199.99
+864,865,14,5,4,2025-05-30,315CB,51915AE,2024-05-05,Lodz,Kurtka zimowa,Odzież,699.99
+865,866,31,6,2,2024-09-20,F4F13,AC07F62,2023-09-12,Nieznane,Zegarek sportowy,Elektronika,899.99
+866,867,20,1,1,2024-12-15,2DCBA,C58FC21,2024-03-03,Warszawa,"Laptop Pro 15""",Elektronika,4999.99
+867,868,39,7,2,2025-06-20,823A7,10B86FF,2023-10-31,Nieznane,Czekolada mleczna,Spożywcze,6.99
+868,869,44,3,4,2025-06-23,456D5,7D83D21,2023-02-24,Gdańsk ,Kawa ziarnista 1kg,Spożywcze,59.99
+869,870,41,6,1,2025-01-20,E4459,938F626,2023-07-20,Nieznane,Zegarek sportowy,Elektronika,899.99
+870,871,39,3,5,2025-02-15,823A7,10B86FF,2023-10-31,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+871,872,20,5,3,2024-12-19,2DCBA,C58FC21,2024-03-03,Warszawa,Kurtka zimowa,Odzież,699.99
+872,873,9,1,1,2024-08-25,98989,FFF4200,2022-10-18,Lodz,"Laptop Pro 15""",Elektronika,4999.99
+873,874,18,5,1,2025-05-29,CFFB2,C26C8A4,2024-09-29,Nieznane,Kurtka zimowa,Odzież,699.99
+874,875,9,4,5,2025-02-28,98989,FFF4200,2022-10-18,Lodz,Buty biegowe X,Odzież,299.99
+875,876,48,2,1,2025-03-09,Piotr,Zieliński,2025-08-09,Nieznane,Smartphone Max,Elektronika,3199.99
+876,877,36,3,4,2024-08-29,67EDF,A5F741A,2023-04-21,Gdańsk ,Kawa ziarnista 1kg,Spożywcze,59.99
+877,878,47,1,1,2024-10-16,Anna,Nowak,2024-05-01,Kraków,"Laptop Pro 15""",Elektronika,4999.99
+878,879,6,5,1,2024-09-05,6D1B7,3967D2B,2023-09-27,Nieznane,Kurtka zimowa,Odzież,699.99
+879,880,47,6,4,2025-02-12,Anna,Nowak,2024-05-01,Kraków,Zegarek sportowy,Elektronika,899.99
+880,881,22,5,3,2025-05-03,BB8E8,FD5CDA5,2023-05-24,Nieznane,Kurtka zimowa,Odzież,699.99
+881,882,14,5,3,2025-01-10,315CB,51915AE,2024-05-05,Lodz,Kurtka zimowa,Odzież,699.99
+882,883,8,7,1,2024-07-27,295AB,E30A1E9,2024-02-03,Nieznane,Czekolada mleczna,Spożywcze,6.99
+883,884,18,4,2,2024-12-14,CFFB2,C26C8A4,2024-09-29,Nieznane,Buty biegowe X,Odzież,299.99
+884,885,47,4,5,2024-12-03,Anna,Nowak,2024-05-01,Kraków,Buty biegowe X,Odzież,299.99
+885,886,48,2,4,2024-11-03,Piotr,Zieliński,2025-08-09,Nieznane,Smartphone Max,Elektronika,3199.99
+886,887,5,5,5,2024-12-16,1118E,CC955C1,2024-07-02,Gdańsk ,Kurtka zimowa,Odzież,699.99
+887,888,10,4,3,2024-12-28,5349F,13CE7DE,2023-04-27,Nieznane,Buty biegowe X,Odzież,299.99
+888,889,6,2,5,2024-10-21,6D1B7,3967D2B,2023-09-27,Nieznane,Smartphone Max,Elektronika,3199.99
+889,890,22,7,3,2025-05-25,BB8E8,FD5CDA5,2023-05-24,Nieznane,Czekolada mleczna,Spożywcze,6.99
+890,891,45,2,5,2024-09-18,BBBA0,656E183,2023-02-22,Nieznane,Smartphone Max,Elektronika,3199.99
+891,892,46,3,4,2025-02-08,Anna,Nowak,2026-01-01,Kraków,Kawa ziarnista 1kg,Spożywcze,59.99
+892,893,2,3,5,2024-11-17,9C128,542CB47,2023-04-18,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+893,894,7,6,4,2025-01-28,DF953,6A7AAEF,2024-06-06,Warszawa,Zegarek sportowy,Elektronika,899.99
+894,895,40,6,2,2025-01-08,384CB,EB6BD6A,2023-05-01,Nieznane,Zegarek sportowy,Elektronika,899.99
+895,896,20,6,5,2024-07-17,2DCBA,C58FC21,2024-03-03,Warszawa,Zegarek sportowy,Elektronika,899.99
+896,897,16,7,3,2025-02-13,DD797,E1C5C15,2023-09-28,Nieznane,Czekolada mleczna,Spożywcze,6.99
+897,898,16,6,4,2024-10-29,DD797,E1C5C15,2023-09-28,Nieznane,Zegarek sportowy,Elektronika,899.99
+898,899,32,7,1,2025-03-18,A3B52,305D61E,2022-10-07,Krakow,Czekolada mleczna,Spożywcze,6.99
+899,900,25,2,1,2024-12-01,134F7,F7FD9E1,2023-08-19,Warszawa,Smartphone Max,Elektronika,3199.99
+900,901,4,1,4,2025-05-24,3AEC1,4B236DB,2023-05-25,warszawa,"Laptop Pro 15""",Elektronika,4999.99
+901,902,31,7,1,2024-09-21,F4F13,AC07F62,2023-09-12,Nieznane,Czekolada mleczna,Spożywcze,6.99
+902,903,8,1,2,2024-09-06,295AB,E30A1E9,2024-02-03,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+903,904,29,1,4,2025-03-08,61394,7C0C33E,2023-06-19,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+904,905,17,7,1,2024-10-26,42C9E,360A3A2,2023-09-24,Nieznane,Czekolada mleczna,Spożywcze,6.99
+905,906,23,1,3,2025-06-29,C2077,95F9175,2025-05-22,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+906,907,27,3,1,2025-04-11,A7FBC,F6F286C,2023-03-28,Kraków,Kawa ziarnista 1kg,Spożywcze,59.99
+907,908,4,3,5,2024-10-10,3AEC1,4B236DB,2023-05-25,warszawa,Kawa ziarnista 1kg,Spożywcze,59.99
+908,909,1,3,1,2024-10-13,4A761,069E7ED,2022-12-15,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+909,910,1,4,2,2025-01-31,4A761,069E7ED,2022-12-15,Nieznane,Buty biegowe X,Odzież,299.99
+910,911,6,4,1,2024-08-07,6D1B7,3967D2B,2023-09-27,Nieznane,Buty biegowe X,Odzież,299.99
+911,912,21,2,4,2025-01-09,BBDAD,AF3472B,2024-05-28,Nieznane,Smartphone Max,Elektronika,3199.99
+912,913,20,4,5,2024-07-23,2DCBA,C58FC21,2024-03-03,Warszawa,Buty biegowe X,Odzież,299.99
+913,914,17,4,2,2024-12-24,42C9E,360A3A2,2023-09-24,Nieznane,Buty biegowe X,Odzież,299.99
+914,915,35,2,3,2024-09-28,83C92,C3081A0,2023-06-23,Gdańsk ,Smartphone Max,Elektronika,3199.99
+915,916,9,1,1,2024-09-22,98989,FFF4200,2022-10-18,Lodz,"Laptop Pro 15""",Elektronika,4999.99
+916,917,13,4,3,2025-05-29,DF105,447D077,2023-12-06,Nieznane,Buty biegowe X,Odzież,299.99
+917,918,23,5,4,2024-08-13,C2077,95F9175,2025-05-22,Nieznane,Kurtka zimowa,Odzież,699.99
+918,919,38,7,5,2024-10-19,A5DA8,9D8EAD8,2023-07-20,POZNAŃ,Czekolada mleczna,Spożywcze,6.99
+919,920,34,2,2,2024-11-24,7BF45,19BBE96,2023-05-14,Warszawa,Smartphone Max,Elektronika,3199.99
+920,921,39,4,3,2025-05-30,823A7,10B86FF,2023-10-31,Nieznane,Buty biegowe X,Odzież,299.99
+921,922,48,1,3,2024-10-28,Piotr,Zieliński,2025-08-09,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+922,923,36,4,1,2025-06-24,67EDF,A5F741A,2023-04-21,Gdańsk ,Buty biegowe X,Odzież,299.99
+923,924,42,6,1,2025-01-01,D201A,0CDE3C6,2022-12-31,Nieznane,Zegarek sportowy,Elektronika,899.99
+924,925,30,6,4,2025-02-17,93D01,4DCE31C,2024-11-06,Krakow,Zegarek sportowy,Elektronika,899.99
+925,926,32,7,3,2025-04-15,A3B52,305D61E,2022-10-07,Krakow,Czekolada mleczna,Spożywcze,6.99
+926,927,16,3,1,2024-08-31,DD797,E1C5C15,2023-09-28,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+927,928,33,2,3,2024-07-07,A664C,4964EDE,2024-12-29,Warszawa,Smartphone Max,Elektronika,3199.99
+928,929,23,2,5,2024-08-21,C2077,95F9175,2025-05-22,Nieznane,Smartphone Max,Elektronika,3199.99
+929,930,26,1,2,2024-09-28,EB778,6F93BB5,2024-04-01,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+930,931,36,3,3,2024-10-19,67EDF,A5F741A,2023-04-21,Gdańsk ,Kawa ziarnista 1kg,Spożywcze,59.99
+931,932,6,1,5,2025-05-19,6D1B7,3967D2B,2023-09-27,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+932,933,9,1,1,2024-12-16,98989,FFF4200,2022-10-18,Lodz,"Laptop Pro 15""",Elektronika,4999.99
+933,934,5,4,3,2024-10-25,1118E,CC955C1,2024-07-02,Gdańsk ,Buty biegowe X,Odzież,299.99
+934,935,30,2,5,2025-06-12,93D01,4DCE31C,2024-11-06,Krakow,Smartphone Max,Elektronika,3199.99
+935,936,38,5,3,2024-12-06,A5DA8,9D8EAD8,2023-07-20,POZNAŃ,Kurtka zimowa,Odzież,699.99
+936,937,20,3,2,2024-09-23,2DCBA,C58FC21,2024-03-03,Warszawa,Kawa ziarnista 1kg,Spożywcze,59.99
+937,938,40,7,1,2025-05-03,384CB,EB6BD6A,2023-05-01,Nieznane,Czekolada mleczna,Spożywcze,6.99
+938,939,12,7,5,2025-05-13,6A756,F691256,2023-09-18,Wrocław,Czekolada mleczna,Spożywcze,6.99
+939,940,3,1,1,2024-09-14,71A41,68983FC,2024-09-26,Lodz,"Laptop Pro 15""",Elektronika,4999.99
+940,941,23,7,5,2024-07-27,C2077,95F9175,2025-05-22,Nieznane,Czekolada mleczna,Spożywcze,6.99
+941,942,3,4,2,2024-10-22,71A41,68983FC,2024-09-26,Lodz,Buty biegowe X,Odzież,299.99
+942,943,38,3,1,2025-03-08,A5DA8,9D8EAD8,2023-07-20,POZNAŃ,Kawa ziarnista 1kg,Spożywcze,59.99
+943,944,25,6,4,2025-04-30,134F7,F7FD9E1,2023-08-19,Warszawa,Zegarek sportowy,Elektronika,899.99
+944,945,35,7,1,2024-09-26,83C92,C3081A0,2023-06-23,Gdańsk ,Czekolada mleczna,Spożywcze,6.99
+945,946,17,1,1,2024-09-06,42C9E,360A3A2,2023-09-24,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+946,947,19,6,1,2024-08-26,1FBDD,C51B052,2022-11-22,Nieznane,Zegarek sportowy,Elektronika,899.99
+947,948,42,2,3,2024-08-18,D201A,0CDE3C6,2022-12-31,Nieznane,Smartphone Max,Elektronika,3199.99
+948,949,21,5,3,2024-09-29,BBDAD,AF3472B,2024-05-28,Nieznane,Kurtka zimowa,Odzież,699.99
+949,950,40,6,1,2025-05-01,384CB,EB6BD6A,2023-05-01,Nieznane,Zegarek sportowy,Elektronika,899.99
+950,951,6,2,2,2025-06-06,6D1B7,3967D2B,2023-09-27,Nieznane,Smartphone Max,Elektronika,3199.99
+951,952,28,1,5,2024-08-08,B18B6,1751B33,2024-02-16,Krakow,"Laptop Pro 15""",Elektronika,4999.99
+952,953,25,2,2,2025-05-01,134F7,F7FD9E1,2023-08-19,Warszawa,Smartphone Max,Elektronika,3199.99
+953,954,13,4,4,2025-02-03,DF105,447D077,2023-12-06,Nieznane,Buty biegowe X,Odzież,299.99
+954,955,5,5,5,2024-12-11,1118E,CC955C1,2024-07-02,Gdańsk ,Kurtka zimowa,Odzież,699.99
+955,956,30,4,4,2025-05-28,93D01,4DCE31C,2024-11-06,Krakow,Buty biegowe X,Odzież,299.99
+956,957,17,7,5,2024-11-15,42C9E,360A3A2,2023-09-24,Nieznane,Czekolada mleczna,Spożywcze,6.99
+957,958,19,7,1,2025-01-07,1FBDD,C51B052,2022-11-22,Nieznane,Czekolada mleczna,Spożywcze,6.99
+958,959,26,7,3,2024-11-25,EB778,6F93BB5,2024-04-01,Nieznane,Czekolada mleczna,Spożywcze,6.99
+959,960,39,2,5,2025-04-11,823A7,10B86FF,2023-10-31,Nieznane,Smartphone Max,Elektronika,3199.99
+960,961,47,2,4,2024-07-25,Anna,Nowak,2024-05-01,Kraków,Smartphone Max,Elektronika,3199.99
+961,962,31,3,5,2024-10-19,F4F13,AC07F62,2023-09-12,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+962,963,22,4,2,2024-07-06,BB8E8,FD5CDA5,2023-05-24,Nieznane,Buty biegowe X,Odzież,299.99
+963,964,27,6,3,2025-06-10,A7FBC,F6F286C,2023-03-28,Kraków,Zegarek sportowy,Elektronika,899.99
+964,965,14,4,1,2024-07-27,315CB,51915AE,2024-05-05,Lodz,Buty biegowe X,Odzież,299.99
+965,966,33,3,5,2025-04-26,A664C,4964EDE,2024-12-29,Warszawa,Kawa ziarnista 1kg,Spożywcze,59.99
+966,967,19,4,3,2025-01-18,1FBDD,C51B052,2022-11-22,Nieznane,Buty biegowe X,Odzież,299.99
+967,968,8,3,4,2024-10-30,295AB,E30A1E9,2024-02-03,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+968,969,3,3,4,2025-01-05,71A41,68983FC,2024-09-26,Lodz,Kawa ziarnista 1kg,Spożywcze,59.99
+969,970,7,2,4,2025-01-24,DF953,6A7AAEF,2024-06-06,Warszawa,Smartphone Max,Elektronika,3199.99
+970,971,5,5,4,2025-06-10,1118E,CC955C1,2024-07-02,Gdańsk ,Kurtka zimowa,Odzież,699.99
+971,972,43,3,3,2025-05-16,21035,DFFE2F2,2023-02-11,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+972,973,31,4,3,2025-03-23,F4F13,AC07F62,2023-09-12,Nieznane,Buty biegowe X,Odzież,299.99
+973,974,3,1,5,2024-07-19,71A41,68983FC,2024-09-26,Lodz,"Laptop Pro 15""",Elektronika,4999.99
+974,975,16,4,5,2024-09-14,DD797,E1C5C15,2023-09-28,Nieznane,Buty biegowe X,Odzież,299.99
+975,976,46,3,5,2024-09-29,Anna,Nowak,2026-01-01,Kraków,Kawa ziarnista 1kg,Spożywcze,59.99
+976,977,3,2,5,2024-08-18,71A41,68983FC,2024-09-26,Lodz,Smartphone Max,Elektronika,3199.99
+977,978,33,2,5,2024-08-02,A664C,4964EDE,2024-12-29,Warszawa,Smartphone Max,Elektronika,3199.99
+978,979,35,5,2,2024-08-16,83C92,C3081A0,2023-06-23,Gdańsk ,Kurtka zimowa,Odzież,699.99
+979,980,23,1,5,2024-08-07,C2077,95F9175,2025-05-22,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+980,981,3,2,5,2024-08-17,71A41,68983FC,2024-09-26,Lodz,Smartphone Max,Elektronika,3199.99
+981,982,15,7,1,2025-03-04,02741,E178374,2024-10-30,Nieznane,Czekolada mleczna,Spożywcze,6.99
+982,983,9,2,1,2025-01-07,98989,FFF4200,2022-10-18,Lodz,Smartphone Max,Elektronika,3199.99
+983,984,38,2,3,2025-05-17,A5DA8,9D8EAD8,2023-07-20,POZNAŃ,Smartphone Max,Elektronika,3199.99
+984,985,23,4,4,2024-11-06,C2077,95F9175,2025-05-22,Nieznane,Buty biegowe X,Odzież,299.99
+985,986,17,2,4,2025-02-23,42C9E,360A3A2,2023-09-24,Nieznane,Smartphone Max,Elektronika,3199.99
+986,987,48,3,1,2025-04-12,Piotr,Zieliński,2025-08-09,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+987,988,2,4,2,2024-10-02,9C128,542CB47,2023-04-18,Nieznane,Buty biegowe X,Odzież,299.99
+988,989,29,5,1,2025-05-02,61394,7C0C33E,2023-06-19,Nieznane,Kurtka zimowa,Odzież,699.99
+989,990,34,4,3,2024-12-13,7BF45,19BBE96,2023-05-14,Warszawa,Buty biegowe X,Odzież,299.99
+990,991,43,6,1,2024-12-22,21035,DFFE2F2,2023-02-11,Nieznane,Zegarek sportowy,Elektronika,899.99
+991,992,36,5,5,2025-06-15,67EDF,A5F741A,2023-04-21,Gdańsk ,Kurtka zimowa,Odzież,699.99
+992,993,48,2,1,2025-06-30,Piotr,Zieliński,2025-08-09,Nieznane,Smartphone Max,Elektronika,3199.99
+993,994,29,2,2,2025-04-22,61394,7C0C33E,2023-06-19,Nieznane,Smartphone Max,Elektronika,3199.99
+994,995,31,1,3,2024-11-24,F4F13,AC07F62,2023-09-12,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+995,996,13,1,1,2024-12-14,DF105,447D077,2023-12-06,Nieznane,"Laptop Pro 15""",Elektronika,4999.99
+996,997,42,3,1,2025-04-28,D201A,0CDE3C6,2022-12-31,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99
+997,998,48,2,4,2024-10-08,Piotr,Zieliński,2025-08-09,Nieznane,Smartphone Max,Elektronika,3199.99
+998,999,26,2,1,2024-09-28,EB778,6F93BB5,2024-04-01,Nieznane,Smartphone Max,Elektronika,3199.99
+999,1000,43,6,5,2024-09-23,21035,DFFE2F2,2023-02-11,Nieznane,Zegarek sportowy,Elektronika,899.99

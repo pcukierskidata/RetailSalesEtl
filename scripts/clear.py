@@ -30,9 +30,6 @@ df_customers['RegistrationDate'] = pd.to_datetime(df_customers['RegistrationDate
 from datetime import datetime
 today = pd.to_datetime(datetime.today())
 
-bad_prices = df_sales[df_sales['UnitPrice'] <= 0]
-bad_quantities = df_sales[df_sales['Quantity'] <= 0]
-
 df_customers['RegistrationDate'] = pd.to_datetime(df_customers['RegistrationDate'], errors='coerce')
 bad_registration_dates = df_customers[df_customers['RegistrationDate'].isna()]
 future_registration_dates = df_customers[df_customers['RegistrationDate'] > today]

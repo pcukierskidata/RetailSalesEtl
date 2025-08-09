@@ -8,6 +8,7 @@ from visualize import (
 )
 
 df_analysis = pd.read_csv('data/processed/features.csv')
+df_analysis['SaleDate'] = pd.to_datetime(df_analysis['SaleDate'], errors='coerce')
 
 def show_basic_stats(df):
     print("Informacje o DataFrame: ")
