@@ -15,9 +15,9 @@ df_main['Quarter'] = 'Q' + df_main['SaleDate'].dt.quarter.astype(str)
 df_main['TotalValue'] = df_main['UnitPrice'] * df_main['Quantity']
 
 # nazwa miesiąca - po polsku
-df_main['MonthNamePL'] = df_main['SaleDate'].dt.month_name().map(MONTH_NAME_PL)
+# df_main['MonthNamePL'] = df_main['SaleDate'].dt.month_name().map(MONTH_NAME_PL)
 
 # nazwa dnia tygodnia - po polsku
-df_main['DayOfWeekName'] = df_main['SaleDate'].dt.day_name().map(DAY_NAME_PL)
+# df_main['DayOfWeekName'] = df_main['SaleDate'].dt.day_name().map(DAY_NAME_PL)
 
 df_main.to_csv('data/processed/features.csv', index=False)
