@@ -90,7 +90,7 @@ Unnamed: 0,SaleID,CustomerID,ProductID,Quantity,SaleDate,FirstName,LastName,Regi
 88,89,46,6,2,2025-01-10,Anna,Nowak,2026-01-01,Kraków,Zegarek sportowy,Elektronika,899.99,2025-01,Friday,Q1,1799.98
 89,90,31,6,3,2025-06-27,F4F13,AC07F62,2023-09-12,Nieznane,Zegarek sportowy,Elektronika,899.99,2025-06,Friday,Q2,2699.9700000000003
 90,91,42,7,1,2025-03-29,D201A,0CDE3C6,2022-12-31,Nieznane,Czekolada mleczna,Spożywcze,6.99,2025-03,Saturday,Q1,6.99
-91,92,48,2,5,2025-07-01,Piotr,Zieliński,2025-08-15,Nieznane,Smartphone Max,Elektronika,3199.99,2025-07,Tuesday,Q3,15999.949999999999
+91,92,48,2,5,2025-07-01,Piotr,Zieliński,2025-08-16,Nieznane,Smartphone Max,Elektronika,3199.99,2025-07,Tuesday,Q3,15999.949999999999
 92,93,19,6,4,2024-07-30,1FBDD,C51B052,2022-11-22,Nieznane,Zegarek sportowy,Elektronika,899.99,2024-07,Tuesday,Q3,3599.96
 93,94,5,1,2,2025-01-05,1118E,CC955C1,2024-07-02,Gdańsk ,"Laptop Pro 15""",Elektronika,4999.99,2025-01,Sunday,Q1,9999.98
 94,95,26,2,5,2024-11-23,EB778,6F93BB5,2024-04-01,Nieznane,Smartphone Max,Elektronika,3199.99,2024-11,Saturday,Q4,15999.949999999999
@@ -180,7 +180,7 @@ Unnamed: 0,SaleID,CustomerID,ProductID,Quantity,SaleDate,FirstName,LastName,Regi
 178,179,12,7,3,2025-01-30,6A756,F691256,2023-09-18,Wrocław,Czekolada mleczna,Spożywcze,6.99,2025-01,Thursday,Q1,20.97
 179,180,3,2,4,2024-08-13,71A41,68983FC,2024-09-26,Lodz,Smartphone Max,Elektronika,3199.99,2024-08,Tuesday,Q3,12799.96
 180,181,7,3,2,2024-10-30,DF953,6A7AAEF,2024-06-06,Warszawa,Kawa ziarnista 1kg,Spożywcze,59.99,2024-10,Wednesday,Q4,119.98
-181,182,48,2,5,2025-03-11,Piotr,Zieliński,2025-08-15,Nieznane,Smartphone Max,Elektronika,3199.99,2025-03,Tuesday,Q1,15999.949999999999
+181,182,48,2,5,2025-03-11,Piotr,Zieliński,2025-08-16,Nieznane,Smartphone Max,Elektronika,3199.99,2025-03,Tuesday,Q1,15999.949999999999
 182,183,28,2,1,2024-07-11,B18B6,1751B33,2024-02-16,Krakow,Smartphone Max,Elektronika,3199.99,2024-07,Thursday,Q3,3199.99
 183,184,16,2,2,2025-01-02,DD797,E1C5C15,2023-09-28,Nieznane,Smartphone Max,Elektronika,3199.99,2025-01,Thursday,Q1,6399.98
 184,185,46,3,3,2024-10-09,Anna,Nowak,2026-01-01,Kraków,Kawa ziarnista 1kg,Spożywcze,59.99,2024-10,Wednesday,Q4,179.97
@@ -189,7 +189,7 @@ Unnamed: 0,SaleID,CustomerID,ProductID,Quantity,SaleDate,FirstName,LastName,Regi
 187,188,40,6,1,2025-03-10,384CB,EB6BD6A,2023-05-01,Nieznane,Zegarek sportowy,Elektronika,899.99,2025-03,Monday,Q1,899.99
 188,189,33,7,5,2025-02-07,A664C,4964EDE,2024-12-29,Warszawa,Czekolada mleczna,Spożywcze,6.99,2025-02,Friday,Q1,34.95
 189,190,13,1,1,2025-06-07,DF105,447D077,2023-12-06,Nieznane,"Laptop Pro 15""",Elektronika,4999.99,2025-06,Saturday,Q2,4999.99
-190,191,48,4,2,2025-02-15,Piotr,Zieliński,2025-08-15,Nieznane,Buty biegowe X,Odzież,299.99,2025-02,Saturday,Q1,599.98
+190,191,48,4,2,2025-02-15,Piotr,Zieliński,2025-08-16,Nieznane,Buty biegowe X,Odzież,299.99,2025-02,Saturday,Q1,599.98
 191,192,41,3,4,2024-10-30,E4459,938F626,2023-07-20,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99,2024-10,Wednesday,Q4,239.96
 192,193,24,2,2,2025-03-16,2855A,6C24AAA,2024-04-22,Lodz,Smartphone Max,Elektronika,3199.99,2025-03,Sunday,Q1,6399.98
 193,194,17,5,4,2025-06-25,42C9E,360A3A2,2023-09-24,Nieznane,Kurtka zimowa,Odzież,699.99,2025-06,Wednesday,Q2,2799.96
@@ -205,7 +205,7 @@ Unnamed: 0,SaleID,CustomerID,ProductID,Quantity,SaleDate,FirstName,LastName,Regi
 203,204,14,3,2,2025-06-29,315CB,51915AE,2024-05-05,Lodz,Kawa ziarnista 1kg,Spożywcze,59.99,2025-06,Sunday,Q2,119.98
 204,205,23,1,2,2024-07-05,C2077,95F9175,2025-05-22,Nieznane,"Laptop Pro 15""",Elektronika,4999.99,2024-07,Friday,Q3,9999.98
 205,206,15,5,5,2024-09-07,02741,E178374,2024-10-30,Nieznane,Kurtka zimowa,Odzież,699.99,2024-09,Saturday,Q3,3499.95
-206,207,48,3,5,2024-10-07,Piotr,Zieliński,2025-08-15,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99,2024-10,Monday,Q4,299.95
+206,207,48,3,5,2024-10-07,Piotr,Zieliński,2025-08-16,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99,2024-10,Monday,Q4,299.95
 207,208,9,7,1,2025-05-26,98989,FFF4200,2022-10-18,Lodz,Czekolada mleczna,Spożywcze,6.99,2025-05,Monday,Q2,6.99
 208,209,11,7,4,2025-02-14,9902E,854872D,2024-01-27,Warszawa,Czekolada mleczna,Spożywcze,6.99,2025-02,Friday,Q1,27.96
 209,210,30,4,4,2025-05-09,93D01,4DCE31C,2024-11-06,Krakow,Buty biegowe X,Odzież,299.99,2025-05,Friday,Q2,1199.96
@@ -256,7 +256,7 @@ Unnamed: 0,SaleID,CustomerID,ProductID,Quantity,SaleDate,FirstName,LastName,Regi
 254,255,14,3,2,2025-05-17,315CB,51915AE,2024-05-05,Lodz,Kawa ziarnista 1kg,Spożywcze,59.99,2025-05,Saturday,Q2,119.98
 255,256,6,3,3,2024-10-10,6D1B7,3967D2B,2023-09-27,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99,2024-10,Thursday,Q4,179.97
 256,257,30,6,5,2025-01-29,93D01,4DCE31C,2024-11-06,Krakow,Zegarek sportowy,Elektronika,899.99,2025-01,Wednesday,Q1,4499.95
-257,258,48,1,3,2024-09-26,Piotr,Zieliński,2025-08-15,Nieznane,"Laptop Pro 15""",Elektronika,4999.99,2024-09,Thursday,Q3,14999.97
+257,258,48,1,3,2024-09-26,Piotr,Zieliński,2025-08-16,Nieznane,"Laptop Pro 15""",Elektronika,4999.99,2024-09,Thursday,Q3,14999.97
 258,259,44,3,2,2025-02-06,456D5,7D83D21,2023-02-24,Gdańsk ,Kawa ziarnista 1kg,Spożywcze,59.99,2025-02,Thursday,Q1,119.98
 259,260,16,4,5,2024-10-01,DD797,E1C5C15,2023-09-28,Nieznane,Buty biegowe X,Odzież,299.99,2024-10,Tuesday,Q4,1499.95
 260,261,30,4,3,2024-09-03,93D01,4DCE31C,2024-11-06,Krakow,Buty biegowe X,Odzież,299.99,2024-09,Tuesday,Q3,899.97
@@ -317,7 +317,7 @@ Unnamed: 0,SaleID,CustomerID,ProductID,Quantity,SaleDate,FirstName,LastName,Regi
 315,316,46,6,1,2025-02-20,Anna,Nowak,2026-01-01,Kraków,Zegarek sportowy,Elektronika,899.99,2025-02,Thursday,Q1,899.99
 316,317,43,5,5,2025-03-20,21035,DFFE2F2,2023-02-11,Nieznane,Kurtka zimowa,Odzież,699.99,2025-03,Thursday,Q1,3499.95
 317,318,16,7,5,2025-01-26,DD797,E1C5C15,2023-09-28,Nieznane,Czekolada mleczna,Spożywcze,6.99,2025-01,Sunday,Q1,34.95
-318,319,48,1,2,2024-07-06,Piotr,Zieliński,2025-08-15,Nieznane,"Laptop Pro 15""",Elektronika,4999.99,2024-07,Saturday,Q3,9999.98
+318,319,48,1,2,2024-07-06,Piotr,Zieliński,2025-08-16,Nieznane,"Laptop Pro 15""",Elektronika,4999.99,2024-07,Saturday,Q3,9999.98
 319,320,38,3,5,2024-07-24,A5DA8,9D8EAD8,2023-07-20,POZNAŃ,Kawa ziarnista 1kg,Spożywcze,59.99,2024-07,Wednesday,Q3,299.95
 320,321,31,1,2,2025-02-08,F4F13,AC07F62,2023-09-12,Nieznane,"Laptop Pro 15""",Elektronika,4999.99,2025-02,Saturday,Q1,9999.98
 321,322,14,5,1,2024-10-26,315CB,51915AE,2024-05-05,Lodz,Kurtka zimowa,Odzież,699.99,2024-10,Saturday,Q4,699.99
@@ -332,7 +332,7 @@ Unnamed: 0,SaleID,CustomerID,ProductID,Quantity,SaleDate,FirstName,LastName,Regi
 330,331,7,5,5,2024-07-12,DF953,6A7AAEF,2024-06-06,Warszawa,Kurtka zimowa,Odzież,699.99,2024-07,Friday,Q3,3499.95
 331,332,39,1,3,2025-03-25,823A7,10B86FF,2023-10-31,Nieznane,"Laptop Pro 15""",Elektronika,4999.99,2025-03,Tuesday,Q1,14999.97
 332,333,44,4,1,2024-12-23,456D5,7D83D21,2023-02-24,Gdańsk ,Buty biegowe X,Odzież,299.99,2024-12,Monday,Q4,299.99
-333,334,48,7,1,2024-08-20,Piotr,Zieliński,2025-08-15,Nieznane,Czekolada mleczna,Spożywcze,6.99,2024-08,Tuesday,Q3,6.99
+333,334,48,7,1,2024-08-20,Piotr,Zieliński,2025-08-16,Nieznane,Czekolada mleczna,Spożywcze,6.99,2024-08,Tuesday,Q3,6.99
 334,335,26,1,4,2025-02-19,EB778,6F93BB5,2024-04-01,Nieznane,"Laptop Pro 15""",Elektronika,4999.99,2025-02,Wednesday,Q1,19999.96
 335,336,35,4,2,2025-03-05,83C92,C3081A0,2023-06-23,Gdańsk ,Buty biegowe X,Odzież,299.99,2025-03,Wednesday,Q1,599.98
 336,337,29,4,1,2025-06-28,61394,7C0C33E,2023-06-19,Nieznane,Buty biegowe X,Odzież,299.99,2025-06,Saturday,Q2,299.99
@@ -418,7 +418,7 @@ Unnamed: 0,SaleID,CustomerID,ProductID,Quantity,SaleDate,FirstName,LastName,Regi
 416,417,17,6,5,2025-05-30,42C9E,360A3A2,2023-09-24,Nieznane,Zegarek sportowy,Elektronika,899.99,2025-05,Friday,Q2,4499.95
 417,418,10,5,3,2025-02-07,5349F,13CE7DE,2023-04-27,Nieznane,Kurtka zimowa,Odzież,699.99,2025-02,Friday,Q1,2099.9700000000003
 418,419,24,5,1,2025-02-01,2855A,6C24AAA,2024-04-22,Lodz,Kurtka zimowa,Odzież,699.99,2025-02,Saturday,Q1,699.99
-419,420,48,6,3,2025-01-16,Piotr,Zieliński,2025-08-15,Nieznane,Zegarek sportowy,Elektronika,899.99,2025-01,Thursday,Q1,2699.9700000000003
+419,420,48,6,3,2025-01-16,Piotr,Zieliński,2025-08-16,Nieznane,Zegarek sportowy,Elektronika,899.99,2025-01,Thursday,Q1,2699.9700000000003
 420,421,38,1,5,2024-09-10,A5DA8,9D8EAD8,2023-07-20,POZNAŃ,"Laptop Pro 15""",Elektronika,4999.99,2024-09,Tuesday,Q3,24999.949999999997
 421,422,2,3,3,2024-08-15,9C128,542CB47,2023-04-18,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99,2024-08,Thursday,Q3,179.97
 422,423,23,5,3,2024-12-14,C2077,95F9175,2025-05-22,Nieznane,Kurtka zimowa,Odzież,699.99,2024-12,Saturday,Q4,2099.9700000000003
@@ -428,7 +428,7 @@ Unnamed: 0,SaleID,CustomerID,ProductID,Quantity,SaleDate,FirstName,LastName,Regi
 426,427,47,1,4,2024-09-08,Anna,Nowak,2024-05-01,Kraków,"Laptop Pro 15""",Elektronika,4999.99,2024-09,Sunday,Q3,19999.96
 427,428,17,7,2,2024-08-17,42C9E,360A3A2,2023-09-24,Nieznane,Czekolada mleczna,Spożywcze,6.99,2024-08,Saturday,Q3,13.98
 428,429,43,2,4,2025-02-27,21035,DFFE2F2,2023-02-11,Nieznane,Smartphone Max,Elektronika,3199.99,2025-02,Thursday,Q1,12799.96
-429,430,48,6,4,2025-01-26,Piotr,Zieliński,2025-08-15,Nieznane,Zegarek sportowy,Elektronika,899.99,2025-01,Sunday,Q1,3599.96
+429,430,48,6,4,2025-01-26,Piotr,Zieliński,2025-08-16,Nieznane,Zegarek sportowy,Elektronika,899.99,2025-01,Sunday,Q1,3599.96
 430,431,35,6,3,2025-04-27,83C92,C3081A0,2023-06-23,Gdańsk ,Zegarek sportowy,Elektronika,899.99,2025-04,Sunday,Q2,2699.9700000000003
 431,432,20,2,2,2024-07-07,2DCBA,C58FC21,2024-03-03,Warszawa,Smartphone Max,Elektronika,3199.99,2024-07,Sunday,Q3,6399.98
 432,433,45,7,2,2024-09-27,BBBA0,656E183,2023-02-22,Nieznane,Czekolada mleczna,Spożywcze,6.99,2024-09,Friday,Q3,13.98
@@ -495,7 +495,7 @@ Unnamed: 0,SaleID,CustomerID,ProductID,Quantity,SaleDate,FirstName,LastName,Regi
 493,494,43,4,3,2024-11-21,21035,DFFE2F2,2023-02-11,Nieznane,Buty biegowe X,Odzież,299.99,2024-11,Thursday,Q4,899.97
 494,495,35,1,3,2024-09-25,83C92,C3081A0,2023-06-23,Gdańsk ,"Laptop Pro 15""",Elektronika,4999.99,2024-09,Wednesday,Q3,14999.97
 495,496,43,7,4,2025-06-24,21035,DFFE2F2,2023-02-11,Nieznane,Czekolada mleczna,Spożywcze,6.99,2025-06,Tuesday,Q2,27.96
-496,497,48,6,3,2025-01-21,Piotr,Zieliński,2025-08-15,Nieznane,Zegarek sportowy,Elektronika,899.99,2025-01,Tuesday,Q1,2699.9700000000003
+496,497,48,6,3,2025-01-21,Piotr,Zieliński,2025-08-16,Nieznane,Zegarek sportowy,Elektronika,899.99,2025-01,Tuesday,Q1,2699.9700000000003
 497,498,37,5,4,2024-11-22,AAB63,EC78CD3,2023-01-27,Nieznane,Kurtka zimowa,Odzież,699.99,2024-11,Friday,Q4,2799.96
 498,499,14,6,2,2025-03-05,315CB,51915AE,2024-05-05,Lodz,Zegarek sportowy,Elektronika,899.99,2025-03,Wednesday,Q1,1799.98
 499,500,23,1,1,2025-04-18,C2077,95F9175,2025-05-22,Nieznane,"Laptop Pro 15""",Elektronika,4999.99,2025-04,Friday,Q2,4999.99
@@ -513,7 +513,7 @@ Unnamed: 0,SaleID,CustomerID,ProductID,Quantity,SaleDate,FirstName,LastName,Regi
 511,512,16,4,4,2024-12-18,DD797,E1C5C15,2023-09-28,Nieznane,Buty biegowe X,Odzież,299.99,2024-12,Wednesday,Q4,1199.96
 512,513,13,1,3,2025-05-19,DF105,447D077,2023-12-06,Nieznane,"Laptop Pro 15""",Elektronika,4999.99,2025-05,Monday,Q2,14999.97
 513,514,14,6,3,2024-09-13,315CB,51915AE,2024-05-05,Lodz,Zegarek sportowy,Elektronika,899.99,2024-09,Friday,Q3,2699.9700000000003
-514,515,48,6,3,2025-06-11,Piotr,Zieliński,2025-08-15,Nieznane,Zegarek sportowy,Elektronika,899.99,2025-06,Wednesday,Q2,2699.9700000000003
+514,515,48,6,3,2025-06-11,Piotr,Zieliński,2025-08-16,Nieznane,Zegarek sportowy,Elektronika,899.99,2025-06,Wednesday,Q2,2699.9700000000003
 515,516,47,6,4,2024-11-15,Anna,Nowak,2024-05-01,Kraków,Zegarek sportowy,Elektronika,899.99,2024-11,Friday,Q4,3599.96
 516,517,40,2,5,2024-07-07,384CB,EB6BD6A,2023-05-01,Nieznane,Smartphone Max,Elektronika,3199.99,2024-07,Sunday,Q3,15999.949999999999
 517,518,28,1,1,2024-09-20,B18B6,1751B33,2024-02-16,Krakow,"Laptop Pro 15""",Elektronika,4999.99,2024-09,Friday,Q3,4999.99
@@ -593,7 +593,7 @@ Unnamed: 0,SaleID,CustomerID,ProductID,Quantity,SaleDate,FirstName,LastName,Regi
 591,592,32,4,5,2024-09-30,A3B52,305D61E,2022-10-07,Krakow,Buty biegowe X,Odzież,299.99,2024-09,Monday,Q3,1499.95
 592,593,12,5,1,2024-12-18,6A756,F691256,2023-09-18,Wrocław,Kurtka zimowa,Odzież,699.99,2024-12,Wednesday,Q4,699.99
 593,594,47,4,3,2024-12-14,Anna,Nowak,2024-05-01,Kraków,Buty biegowe X,Odzież,299.99,2024-12,Saturday,Q4,899.97
-594,595,48,5,4,2024-10-01,Piotr,Zieliński,2025-08-15,Nieznane,Kurtka zimowa,Odzież,699.99,2024-10,Tuesday,Q4,2799.96
+594,595,48,5,4,2024-10-01,Piotr,Zieliński,2025-08-16,Nieznane,Kurtka zimowa,Odzież,699.99,2024-10,Tuesday,Q4,2799.96
 595,596,28,1,1,2024-09-15,B18B6,1751B33,2024-02-16,Krakow,"Laptop Pro 15""",Elektronika,4999.99,2024-09,Sunday,Q3,4999.99
 596,597,18,6,3,2025-03-30,CFFB2,C26C8A4,2024-09-29,Nieznane,Zegarek sportowy,Elektronika,899.99,2025-03,Sunday,Q1,2699.9700000000003
 597,598,26,7,3,2025-04-22,EB778,6F93BB5,2024-04-01,Nieznane,Czekolada mleczna,Spożywcze,6.99,2025-04,Tuesday,Q2,20.97
@@ -627,7 +627,7 @@ Unnamed: 0,SaleID,CustomerID,ProductID,Quantity,SaleDate,FirstName,LastName,Regi
 625,626,43,2,3,2025-01-22,21035,DFFE2F2,2023-02-11,Nieznane,Smartphone Max,Elektronika,3199.99,2025-01,Wednesday,Q1,9599.97
 626,627,22,5,1,2024-11-25,BB8E8,FD5CDA5,2023-05-24,Nieznane,Kurtka zimowa,Odzież,699.99,2024-11,Monday,Q4,699.99
 627,628,36,1,2,2024-08-31,67EDF,A5F741A,2023-04-21,Gdańsk ,"Laptop Pro 15""",Elektronika,4999.99,2024-08,Saturday,Q3,9999.98
-628,629,48,3,5,2024-10-15,Piotr,Zieliński,2025-08-15,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99,2024-10,Tuesday,Q4,299.95
+628,629,48,3,5,2024-10-15,Piotr,Zieliński,2025-08-16,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99,2024-10,Tuesday,Q4,299.95
 629,630,15,5,3,2024-07-03,02741,E178374,2024-10-30,Nieznane,Kurtka zimowa,Odzież,699.99,2024-07,Wednesday,Q3,2099.9700000000003
 630,631,20,4,2,2024-08-30,2DCBA,C58FC21,2024-03-03,Warszawa,Buty biegowe X,Odzież,299.99,2024-08,Friday,Q3,599.98
 631,632,1,1,1,2025-03-23,4A761,069E7ED,2022-12-15,Nieznane,"Laptop Pro 15""",Elektronika,4999.99,2025-03,Sunday,Q1,4999.99
@@ -707,8 +707,8 @@ Unnamed: 0,SaleID,CustomerID,ProductID,Quantity,SaleDate,FirstName,LastName,Regi
 705,706,5,7,2,2024-07-26,1118E,CC955C1,2024-07-02,Gdańsk ,Czekolada mleczna,Spożywcze,6.99,2024-07,Friday,Q3,13.98
 706,707,36,2,5,2025-06-29,67EDF,A5F741A,2023-04-21,Gdańsk ,Smartphone Max,Elektronika,3199.99,2025-06,Sunday,Q2,15999.949999999999
 707,708,8,3,5,2024-12-18,295AB,E30A1E9,2024-02-03,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99,2024-12,Wednesday,Q4,299.95
-708,709,48,1,1,2024-12-17,Piotr,Zieliński,2025-08-15,Nieznane,"Laptop Pro 15""",Elektronika,4999.99,2024-12,Tuesday,Q4,4999.99
-709,710,48,5,2,2024-11-18,Piotr,Zieliński,2025-08-15,Nieznane,Kurtka zimowa,Odzież,699.99,2024-11,Monday,Q4,1399.98
+708,709,48,1,1,2024-12-17,Piotr,Zieliński,2025-08-16,Nieznane,"Laptop Pro 15""",Elektronika,4999.99,2024-12,Tuesday,Q4,4999.99
+709,710,48,5,2,2024-11-18,Piotr,Zieliński,2025-08-16,Nieznane,Kurtka zimowa,Odzież,699.99,2024-11,Monday,Q4,1399.98
 710,711,19,2,2,2025-06-14,1FBDD,C51B052,2022-11-22,Nieznane,Smartphone Max,Elektronika,3199.99,2025-06,Saturday,Q2,6399.98
 711,712,9,6,5,2025-06-11,98989,FFF4200,2022-10-18,Lodz,Zegarek sportowy,Elektronika,899.99,2025-06,Wednesday,Q2,4499.95
 712,713,46,4,3,2025-03-07,Anna,Nowak,2026-01-01,Kraków,Buty biegowe X,Odzież,299.99,2025-03,Friday,Q1,899.97
@@ -735,9 +735,9 @@ Unnamed: 0,SaleID,CustomerID,ProductID,Quantity,SaleDate,FirstName,LastName,Regi
 733,734,16,5,1,2025-03-11,DD797,E1C5C15,2023-09-28,Nieznane,Kurtka zimowa,Odzież,699.99,2025-03,Tuesday,Q1,699.99
 734,735,43,6,3,2025-05-06,21035,DFFE2F2,2023-02-11,Nieznane,Zegarek sportowy,Elektronika,899.99,2025-05,Tuesday,Q2,2699.9700000000003
 735,736,5,2,4,2024-09-02,1118E,CC955C1,2024-07-02,Gdańsk ,Smartphone Max,Elektronika,3199.99,2024-09,Monday,Q3,12799.96
-736,737,48,7,1,2025-04-08,Piotr,Zieliński,2025-08-15,Nieznane,Czekolada mleczna,Spożywcze,6.99,2025-04,Tuesday,Q2,6.99
+736,737,48,7,1,2025-04-08,Piotr,Zieliński,2025-08-16,Nieznane,Czekolada mleczna,Spożywcze,6.99,2025-04,Tuesday,Q2,6.99
 737,738,41,6,5,2024-11-02,E4459,938F626,2023-07-20,Nieznane,Zegarek sportowy,Elektronika,899.99,2024-11,Saturday,Q4,4499.95
-738,739,48,2,5,2025-01-09,Piotr,Zieliński,2025-08-15,Nieznane,Smartphone Max,Elektronika,3199.99,2025-01,Thursday,Q1,15999.949999999999
+738,739,48,2,5,2025-01-09,Piotr,Zieliński,2025-08-16,Nieznane,Smartphone Max,Elektronika,3199.99,2025-01,Thursday,Q1,15999.949999999999
 739,740,9,3,4,2024-09-28,98989,FFF4200,2022-10-18,Lodz,Kawa ziarnista 1kg,Spożywcze,59.99,2024-09,Saturday,Q3,239.96
 740,741,21,3,3,2025-03-03,BBDAD,AF3472B,2024-05-28,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99,2025-03,Monday,Q1,179.97
 741,742,42,1,5,2025-03-14,D201A,0CDE3C6,2022-12-31,Nieznane,"Laptop Pro 15""",Elektronika,4999.99,2025-03,Friday,Q1,24999.949999999997
@@ -784,7 +784,7 @@ Unnamed: 0,SaleID,CustomerID,ProductID,Quantity,SaleDate,FirstName,LastName,Regi
 782,783,28,1,3,2025-06-08,B18B6,1751B33,2024-02-16,Krakow,"Laptop Pro 15""",Elektronika,4999.99,2025-06,Sunday,Q2,14999.97
 783,784,21,3,1,2025-02-11,BBDAD,AF3472B,2024-05-28,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99,2025-02,Tuesday,Q1,59.99
 784,785,37,5,2,2025-06-22,AAB63,EC78CD3,2023-01-27,Nieznane,Kurtka zimowa,Odzież,699.99,2025-06,Sunday,Q2,1399.98
-785,786,48,5,1,2024-09-02,Piotr,Zieliński,2025-08-15,Nieznane,Kurtka zimowa,Odzież,699.99,2024-09,Monday,Q3,699.99
+785,786,48,5,1,2024-09-02,Piotr,Zieliński,2025-08-16,Nieznane,Kurtka zimowa,Odzież,699.99,2024-09,Monday,Q3,699.99
 786,787,40,3,4,2024-09-14,384CB,EB6BD6A,2023-05-01,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99,2024-09,Saturday,Q3,239.96
 787,788,18,7,3,2024-10-19,CFFB2,C26C8A4,2024-09-29,Nieznane,Czekolada mleczna,Spożywcze,6.99,2024-10,Saturday,Q4,20.97
 788,789,24,3,1,2025-01-30,2855A,6C24AAA,2024-04-22,Lodz,Kawa ziarnista 1kg,Spożywcze,59.99,2025-01,Thursday,Q1,59.99
@@ -807,7 +807,7 @@ Unnamed: 0,SaleID,CustomerID,ProductID,Quantity,SaleDate,FirstName,LastName,Regi
 805,806,27,3,4,2025-04-17,A7FBC,F6F286C,2023-03-28,Kraków,Kawa ziarnista 1kg,Spożywcze,59.99,2025-04,Thursday,Q2,239.96
 806,807,27,1,1,2024-08-15,A7FBC,F6F286C,2023-03-28,Kraków,"Laptop Pro 15""",Elektronika,4999.99,2024-08,Thursday,Q3,4999.99
 807,808,38,4,2,2025-01-16,A5DA8,9D8EAD8,2023-07-20,POZNAŃ,Buty biegowe X,Odzież,299.99,2025-01,Thursday,Q1,599.98
-808,809,48,1,5,2024-09-03,Piotr,Zieliński,2025-08-15,Nieznane,"Laptop Pro 15""",Elektronika,4999.99,2024-09,Tuesday,Q3,24999.949999999997
+808,809,48,1,5,2024-09-03,Piotr,Zieliński,2025-08-16,Nieznane,"Laptop Pro 15""",Elektronika,4999.99,2024-09,Tuesday,Q3,24999.949999999997
 809,810,3,1,3,2025-02-09,71A41,68983FC,2024-09-26,Lodz,"Laptop Pro 15""",Elektronika,4999.99,2025-02,Sunday,Q1,14999.97
 810,811,27,3,3,2024-09-02,A7FBC,F6F286C,2023-03-28,Kraków,Kawa ziarnista 1kg,Spożywcze,59.99,2024-09,Monday,Q3,179.97
 811,812,5,1,5,2025-03-16,1118E,CC955C1,2024-07-02,Gdańsk ,"Laptop Pro 15""",Elektronika,4999.99,2025-03,Sunday,Q1,24999.949999999997
@@ -840,8 +840,8 @@ Unnamed: 0,SaleID,CustomerID,ProductID,Quantity,SaleDate,FirstName,LastName,Regi
 838,839,14,7,5,2024-10-29,315CB,51915AE,2024-05-05,Lodz,Czekolada mleczna,Spożywcze,6.99,2024-10,Tuesday,Q4,34.95
 839,840,10,4,1,2024-08-19,5349F,13CE7DE,2023-04-27,Nieznane,Buty biegowe X,Odzież,299.99,2024-08,Monday,Q3,299.99
 840,841,32,4,2,2024-09-19,A3B52,305D61E,2022-10-07,Krakow,Buty biegowe X,Odzież,299.99,2024-09,Thursday,Q3,599.98
-841,842,48,4,1,2024-07-24,Piotr,Zieliński,2025-08-15,Nieznane,Buty biegowe X,Odzież,299.99,2024-07,Wednesday,Q3,299.99
-842,843,48,6,2,2024-07-12,Piotr,Zieliński,2025-08-15,Nieznane,Zegarek sportowy,Elektronika,899.99,2024-07,Friday,Q3,1799.98
+841,842,48,4,1,2024-07-24,Piotr,Zieliński,2025-08-16,Nieznane,Buty biegowe X,Odzież,299.99,2024-07,Wednesday,Q3,299.99
+842,843,48,6,2,2024-07-12,Piotr,Zieliński,2025-08-16,Nieznane,Zegarek sportowy,Elektronika,899.99,2024-07,Friday,Q3,1799.98
 843,844,6,4,4,2024-08-27,6D1B7,3967D2B,2023-09-27,Nieznane,Buty biegowe X,Odzież,299.99,2024-08,Tuesday,Q3,1199.96
 844,845,10,4,1,2025-02-27,5349F,13CE7DE,2023-04-27,Nieznane,Buty biegowe X,Odzież,299.99,2025-02,Thursday,Q1,299.99
 845,846,33,4,4,2024-08-15,A664C,4964EDE,2024-12-29,Warszawa,Buty biegowe X,Odzież,299.99,2024-08,Thursday,Q3,1199.96
@@ -874,7 +874,7 @@ Unnamed: 0,SaleID,CustomerID,ProductID,Quantity,SaleDate,FirstName,LastName,Regi
 872,873,9,1,1,2024-08-25,98989,FFF4200,2022-10-18,Lodz,"Laptop Pro 15""",Elektronika,4999.99,2024-08,Sunday,Q3,4999.99
 873,874,18,5,1,2025-05-29,CFFB2,C26C8A4,2024-09-29,Nieznane,Kurtka zimowa,Odzież,699.99,2025-05,Thursday,Q2,699.99
 874,875,9,4,5,2025-02-28,98989,FFF4200,2022-10-18,Lodz,Buty biegowe X,Odzież,299.99,2025-02,Friday,Q1,1499.95
-875,876,48,2,1,2025-03-09,Piotr,Zieliński,2025-08-15,Nieznane,Smartphone Max,Elektronika,3199.99,2025-03,Sunday,Q1,3199.99
+875,876,48,2,1,2025-03-09,Piotr,Zieliński,2025-08-16,Nieznane,Smartphone Max,Elektronika,3199.99,2025-03,Sunday,Q1,3199.99
 876,877,36,3,4,2024-08-29,67EDF,A5F741A,2023-04-21,Gdańsk ,Kawa ziarnista 1kg,Spożywcze,59.99,2024-08,Thursday,Q3,239.96
 877,878,47,1,1,2024-10-16,Anna,Nowak,2024-05-01,Kraków,"Laptop Pro 15""",Elektronika,4999.99,2024-10,Wednesday,Q4,4999.99
 878,879,6,5,1,2024-09-05,6D1B7,3967D2B,2023-09-27,Nieznane,Kurtka zimowa,Odzież,699.99,2024-09,Thursday,Q3,699.99
@@ -884,7 +884,7 @@ Unnamed: 0,SaleID,CustomerID,ProductID,Quantity,SaleDate,FirstName,LastName,Regi
 882,883,8,7,1,2024-07-27,295AB,E30A1E9,2024-02-03,Nieznane,Czekolada mleczna,Spożywcze,6.99,2024-07,Saturday,Q3,6.99
 883,884,18,4,2,2024-12-14,CFFB2,C26C8A4,2024-09-29,Nieznane,Buty biegowe X,Odzież,299.99,2024-12,Saturday,Q4,599.98
 884,885,47,4,5,2024-12-03,Anna,Nowak,2024-05-01,Kraków,Buty biegowe X,Odzież,299.99,2024-12,Tuesday,Q4,1499.95
-885,886,48,2,4,2024-11-03,Piotr,Zieliński,2025-08-15,Nieznane,Smartphone Max,Elektronika,3199.99,2024-11,Sunday,Q4,12799.96
+885,886,48,2,4,2024-11-03,Piotr,Zieliński,2025-08-16,Nieznane,Smartphone Max,Elektronika,3199.99,2024-11,Sunday,Q4,12799.96
 886,887,5,5,5,2024-12-16,1118E,CC955C1,2024-07-02,Gdańsk ,Kurtka zimowa,Odzież,699.99,2024-12,Monday,Q4,3499.95
 887,888,10,4,3,2024-12-28,5349F,13CE7DE,2023-04-27,Nieznane,Buty biegowe X,Odzież,299.99,2024-12,Saturday,Q4,899.97
 888,889,6,2,5,2024-10-21,6D1B7,3967D2B,2023-09-27,Nieznane,Smartphone Max,Elektronika,3199.99,2024-10,Monday,Q4,15999.949999999999
@@ -920,7 +920,7 @@ Unnamed: 0,SaleID,CustomerID,ProductID,Quantity,SaleDate,FirstName,LastName,Regi
 918,919,38,7,5,2024-10-19,A5DA8,9D8EAD8,2023-07-20,POZNAŃ,Czekolada mleczna,Spożywcze,6.99,2024-10,Saturday,Q4,34.95
 919,920,34,2,2,2024-11-24,7BF45,19BBE96,2023-05-14,Warszawa,Smartphone Max,Elektronika,3199.99,2024-11,Sunday,Q4,6399.98
 920,921,39,4,3,2025-05-30,823A7,10B86FF,2023-10-31,Nieznane,Buty biegowe X,Odzież,299.99,2025-05,Friday,Q2,899.97
-921,922,48,1,3,2024-10-28,Piotr,Zieliński,2025-08-15,Nieznane,"Laptop Pro 15""",Elektronika,4999.99,2024-10,Monday,Q4,14999.97
+921,922,48,1,3,2024-10-28,Piotr,Zieliński,2025-08-16,Nieznane,"Laptop Pro 15""",Elektronika,4999.99,2024-10,Monday,Q4,14999.97
 922,923,36,4,1,2025-06-24,67EDF,A5F741A,2023-04-21,Gdańsk ,Buty biegowe X,Odzież,299.99,2025-06,Tuesday,Q2,299.99
 923,924,42,6,1,2025-01-01,D201A,0CDE3C6,2022-12-31,Nieznane,Zegarek sportowy,Elektronika,899.99,2025-01,Wednesday,Q1,899.99
 924,925,30,6,4,2025-02-17,93D01,4DCE31C,2024-11-06,Krakow,Zegarek sportowy,Elektronika,899.99,2025-02,Monday,Q1,3599.96
@@ -985,17 +985,17 @@ Unnamed: 0,SaleID,CustomerID,ProductID,Quantity,SaleDate,FirstName,LastName,Regi
 983,984,38,2,3,2025-05-17,A5DA8,9D8EAD8,2023-07-20,POZNAŃ,Smartphone Max,Elektronika,3199.99,2025-05,Saturday,Q2,9599.97
 984,985,23,4,4,2024-11-06,C2077,95F9175,2025-05-22,Nieznane,Buty biegowe X,Odzież,299.99,2024-11,Wednesday,Q4,1199.96
 985,986,17,2,4,2025-02-23,42C9E,360A3A2,2023-09-24,Nieznane,Smartphone Max,Elektronika,3199.99,2025-02,Sunday,Q1,12799.96
-986,987,48,3,1,2025-04-12,Piotr,Zieliński,2025-08-15,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99,2025-04,Saturday,Q2,59.99
+986,987,48,3,1,2025-04-12,Piotr,Zieliński,2025-08-16,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99,2025-04,Saturday,Q2,59.99
 987,988,2,4,2,2024-10-02,9C128,542CB47,2023-04-18,Nieznane,Buty biegowe X,Odzież,299.99,2024-10,Wednesday,Q4,599.98
 988,989,29,5,1,2025-05-02,61394,7C0C33E,2023-06-19,Nieznane,Kurtka zimowa,Odzież,699.99,2025-05,Friday,Q2,699.99
 989,990,34,4,3,2024-12-13,7BF45,19BBE96,2023-05-14,Warszawa,Buty biegowe X,Odzież,299.99,2024-12,Friday,Q4,899.97
 990,991,43,6,1,2024-12-22,21035,DFFE2F2,2023-02-11,Nieznane,Zegarek sportowy,Elektronika,899.99,2024-12,Sunday,Q4,899.99
 991,992,36,5,5,2025-06-15,67EDF,A5F741A,2023-04-21,Gdańsk ,Kurtka zimowa,Odzież,699.99,2025-06,Sunday,Q2,3499.95
-992,993,48,2,1,2025-06-30,Piotr,Zieliński,2025-08-15,Nieznane,Smartphone Max,Elektronika,3199.99,2025-06,Monday,Q2,3199.99
+992,993,48,2,1,2025-06-30,Piotr,Zieliński,2025-08-16,Nieznane,Smartphone Max,Elektronika,3199.99,2025-06,Monday,Q2,3199.99
 993,994,29,2,2,2025-04-22,61394,7C0C33E,2023-06-19,Nieznane,Smartphone Max,Elektronika,3199.99,2025-04,Tuesday,Q2,6399.98
 994,995,31,1,3,2024-11-24,F4F13,AC07F62,2023-09-12,Nieznane,"Laptop Pro 15""",Elektronika,4999.99,2024-11,Sunday,Q4,14999.97
 995,996,13,1,1,2024-12-14,DF105,447D077,2023-12-06,Nieznane,"Laptop Pro 15""",Elektronika,4999.99,2024-12,Saturday,Q4,4999.99
 996,997,42,3,1,2025-04-28,D201A,0CDE3C6,2022-12-31,Nieznane,Kawa ziarnista 1kg,Spożywcze,59.99,2025-04,Monday,Q2,59.99
-997,998,48,2,4,2024-10-08,Piotr,Zieliński,2025-08-15,Nieznane,Smartphone Max,Elektronika,3199.99,2024-10,Tuesday,Q4,12799.96
+997,998,48,2,4,2024-10-08,Piotr,Zieliński,2025-08-16,Nieznane,Smartphone Max,Elektronika,3199.99,2024-10,Tuesday,Q4,12799.96
 998,999,26,2,1,2024-09-28,EB778,6F93BB5,2024-04-01,Nieznane,Smartphone Max,Elektronika,3199.99,2024-09,Saturday,Q3,3199.99
 999,1000,43,6,5,2024-09-23,21035,DFFE2F2,2023-02-11,Nieznane,Zegarek sportowy,Elektronika,899.99,2024-09,Monday,Q3,4499.95
