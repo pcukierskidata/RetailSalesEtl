@@ -1,6 +1,15 @@
+import sys
 import matplotlib.pyplot as plt
 import mplcursors
 import matplotlib.ticker as mtick
+import matplotlib.patches as mpatches
+
+# --- Configuration ---
+MODE = "technical"
+if len(sys.argv) > 1:
+    MODE = sys.argv[1].lower()
+    if MODE not in ["technical", "business"]:
+        MODE = "technical"
 
 # --- Helper functions ---
 def format_axis_as_millions(ax):
@@ -25,14 +34,24 @@ def finalize_plot(ax, xlabel=None, ylabel=None, title=None, rotate_xticks=None):
 # --- Chart functions ---
 def draw_monthly_sales(df):
     monthly_sales = df.groupby(df['SaleDate'].dt.to_period('M'))['TotalValue'].sum()
-    ax = monthly_sales.plot(kind='line', figsize=(12,6))
+    
+    if MODE == "business":
+        ax = monthly_sales.plot(kind='line', figsize=(12,6), color="royalblue", linewidth=2.5, marker="o")
+    else:
+        ax = monthly_sales.plot(kind='line', figsize=(12,6))
+
+    format_axis_as_millions(ax)
     finalize_plot(ax, xlabel='Sales Year and Month', ylabel='Monthly Sales Trend',
                   title='Monthly Sales Trend')
 
 def draw_quarter_sales(df):
     quarter_sales = df.groupby('Quarter')['TotalValue'].sum()
-    ax = quarter_sales.plot(kind='bar', figsize=(12,6))
-
+    
+    if MODE == "business":
+        ax = quarter_sales.plot(kind='bar', figsize=(12,6), color=["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728"])
+    else:
+        ax = quarter_sales.plot(kind='bar', figsize=(12,6))
+    
     format_axis_as_millions(ax)
     add_interactive_cursor(ax)
     finalize_plot(ax, xlabel='Sales Quarter', ylabel='Total Sales Value', title='Quarterly Sales')
@@ -40,7 +59,11 @@ def draw_quarter_sales(df):
 def draw_days_of_week_sales(df):
     day_sales = df.groupby('DayName')['TotalValue'].sum()
     day_sales = day_sales.reindex(['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'])
-    ax = day_sales.plot(kind='bar', figsize=(12,6))
+    
+    if MODE == "business":
+        ax = day_sales.plot(kind='bar', figsize=(12,6), color="seagreen")
+    else:
+        ax = day_sales.plot(kind='bar', figsize=(12,6))
 
     format_axis_as_millions(ax)
     add_interactive_cursor(ax)
@@ -48,8 +71,29 @@ def draw_days_of_week_sales(df):
 
 def draw_top_products(df):
     top_products = df.groupby('ProductName')['TotalValue'].sum().sort_values(ascending=False).head(10)
-    ax = top_products.plot(kind='bar', figsize=(12,6))
-    
+
+    if MODE == "technical":
+        ax = top_products.plot(kind='bar', figsize=(12,6))
+    else:
+        colors = plt.cm.tab10(range(len(top_products)))
+        ax = top_products.plot(kind='bar', figsize=(12,6), color=colors)
+
+        handles = [
+            mpatches.Patch(color=c, label=label)
+            for c, label in zip(colors, top_products.index)
+        ]
+
+        ax.legend(
+            handles=handles,
+            title="Products",
+            bbox_to_anchor=(1.02, 1),
+            loc="upper left",
+            borderaxespad=0.0
+        )
+
+        ax.set_xticklabels([])
+        plt.tight_layout(rect=[0, 0, 0.8, 1])
+
     format_axis_as_millions(ax)
     add_interactive_cursor(ax)
     finalize_plot(ax, title='Top 10 Best-Selling Products (value in millions)')
