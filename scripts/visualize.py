@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import mplcursors
 import matplotlib.ticker as mtick
 import matplotlib.patches as mpatches
+import matplotlib.colors as mcolors
 
 # --- Configuration ---
 MODE = "technical"
@@ -31,6 +32,21 @@ def finalize_plot(ax, xlabel=None, ylabel=None, title=None, rotate_xticks=None):
     plt.tight_layout()
     plt.show()
 
+def add_hover_highlight(fig, bars, highlight_color="gold", fade_alpha=0.6):
+    def on_hover(event):
+            for bar in bars:
+                if bar.contains(event)[0]:
+                    bar.set_alpha(1.0)
+                    bar.set_edgecolor(highlight_color)
+                    bar.set_linewidth(2)
+                else:
+                    bar.set_alpha(fade_alpha)
+                    bar.set_edgecolor("black")
+                    bar.set_linewidth(1)
+            fig.canvas.draw_idle()
+
+    fig.canvas.mpl_connect("motion_notify_event", on_hover)
+
 # --- Chart functions ---
 def draw_monthly_sales(df):
     monthly_sales = df.groupby(df['SaleDate'].dt.to_period('M'))['TotalValue'].sum()
@@ -48,7 +64,12 @@ def draw_quarter_sales(df):
     quarter_sales = df.groupby('Quarter')['TotalValue'].sum()
     
     if MODE == "business":
-        ax = quarter_sales.plot(kind='bar', figsize=(12,6), color=["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728"])
+        fig, ax = plt.subplots(figsize=(12,6))
+        cmap = mcolors.LinearSegmentedColormap.from_list("", ["seagreen", "lightgreen"])
+        colors = [cmap(i/len(quarter_sales)) for i in range(len(quarter_sales))]
+        bars = ax.bar(quarter_sales.index, quarter_sales.values, color=colors, edgecolor="black")
+
+        add_hover_highlight(fig, bars)
     else:
         ax = quarter_sales.plot(kind='bar', figsize=(12,6))
     
@@ -61,7 +82,12 @@ def draw_days_of_week_sales(df):
     day_sales = day_sales.reindex(['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'])
     
     if MODE == "business":
-        ax = day_sales.plot(kind='bar', figsize=(12,6), color="seagreen")
+        fig, ax = plt.subplots(figsize=(12,6))
+        cmap = mcolors.LinearSegmentedColormap.from_list("", ["seagreen", "lightgreen"])
+        colors = [cmap(i/len(day_sales)) for i in range(len(day_sales))]
+        bars = ax.bar(day_sales.index, day_sales.values, color=colors, edgecolor="black")
+
+        add_hover_highlight(fig, bars)
     else:
         ax = day_sales.plot(kind='bar', figsize=(12,6))
 
@@ -96,4 +122,4 @@ def draw_top_products(df):
 
     format_axis_as_millions(ax)
     add_interactive_cursor(ax)
-    finalize_plot(ax, title='Top 10 Best-Selling Products (value in millions)')
+    finalize_plot(ax, title='Top 10 Best-Selling Products (value in millions)', xlabel='')
