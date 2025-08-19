@@ -4,7 +4,8 @@ from visualize import (
     draw_monthly_sales,
     draw_quarter_sales,
     draw_days_of_week_sales,
-    draw_top_products
+    draw_top_products,
+    draw_product_quarter_heatmap
 )
 
 df_analysis = pd.read_csv('data/processed/features.csv')
@@ -15,6 +16,7 @@ if __name__ == "__main__":
     draw_quarter_sales(df_analysis)
     draw_days_of_week_sales(df_analysis)
     draw_top_products(df_analysis)
+    draw_product_quarter_heatmap(df_analysis)
 
 
 

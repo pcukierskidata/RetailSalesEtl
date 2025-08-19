@@ -4,6 +4,7 @@ import mplcursors
 import matplotlib.ticker as mtick
 import matplotlib.patches as mpatches
 import matplotlib.colors as mcolors
+import numpy as nmp
 
 # --- Configuration ---
 MODE = "technical"
@@ -123,3 +124,39 @@ def draw_top_products(df):
     format_axis_as_millions(ax)
     add_interactive_cursor(ax)
     finalize_plot(ax, title='Top 10 Best-Selling Products (value in millions)', xlabel='')
+
+def draw_product_quarter_heatmap(df):
+    pivot = df.pivot_table(
+        index="ProductName",
+        columns="Quarter",
+        values="TotalValue",
+        aggfunc="sum"
+    ).fillna(0)
+
+    pivot = pivot.loc[pivot.sum(axis=1).sort_values(ascending=False).index]
+    fig, ax = plt.subplots(figsize=(10,8))
+
+    cax = ax.imshow(pivot.values, cmap="YlGnBu", aspect="auto")
+
+    ax.set_xticks(nmp.arange(len(pivot.columns)))
+    ax.set_yticks(nmp.arange(len(pivot.index)))
+    ax.set_xticklabels(pivot.columns)
+    ax.set_yticklabels(pivot.index)
+
+    plt.setp(ax.get_xticklabels(), rotation=45, ha="right", rotation_mode="anchor")
+
+    for i in range(len(pivot.index)):
+        for j in range(len(pivot.columns)):
+            value = pivot.values[i,j]
+            ax.text(j, i, f"{value/1e6:.1f}", ha="center", va="center", color="black")
+
+    fig.colorbar(cax, ax=ax, label="Sales Value")
+
+    ax.set_title("Sales Heatmap by Product and Quarter")
+    fig.tight_layout()
+    plt.show()
+
+
+
+    
+
