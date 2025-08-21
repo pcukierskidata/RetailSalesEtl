@@ -1,6 +1,6 @@
 import pandas as pd
 
-from visualize import (
+from scripts.visualizations.matplotlib.visualize import (
     draw_monthly_sales,
     draw_quarter_sales,
     draw_days_of_week_sales,

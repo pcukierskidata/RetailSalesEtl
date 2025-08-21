@@ -155,8 +155,3 @@ def draw_product_quarter_heatmap(df):
     ax.set_title("Sales Heatmap by Product and Quarter")
     fig.tight_layout()
     plt.show()
-
-
-
-    
-
