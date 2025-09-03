@@ -1,6 +1,6 @@
 import pandas as pd
-from scripts.visualizations.matplotlib.mappers import MONTH_NAME_PL
-from scripts.visualizations.matplotlib.mappers import DAY_NAME_PL
+from mappers import MONTH_NAME_PL
+from mappers import DAY_NAME_PL
 
 df_main = pd.read_csv('data/processed/main.csv')
 
