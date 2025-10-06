@@ -37,8 +37,3 @@ elif choice == "3":
 else:
     print("Invalid choice. Exiting program.")
     exit(1)
-
-# Run the selected scripts
-for script in scripts:
-    print(f"\n▶ Running: {script}")
-    subprocess.run(["python", f"scripts/{script}"])
