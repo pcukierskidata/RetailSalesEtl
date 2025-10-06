@@ -66,4 +66,4 @@ Charts can be displayed in **two modes**:
 
 You can view the full Jupyter Notebook for this project at:
 
-[RetailSalesEtl/Notebooks/ETL_report.ipynb](RetailSalesEtl/Notebooks/ETL_report.ipynb)
+[RetailSalesEtl/RetailSalesEtl/Notebooks/ETL_report.ipynb](RetailSalesEtl/RetailSalesEtl/Notebooks/ETL_report.ipynb)
